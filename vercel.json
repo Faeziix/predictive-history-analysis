@@ -1,5 +1,6 @@
 {
-  "installCommand": "bun install",
-  "buildCommand": "bun run quartz build",
-  "outputDirectory": "public"
+  "installCommand": "npm install",
+  "buildCommand": "npx quartz build",
+  "outputDirectory": "public",
+  "framework": null
 }
