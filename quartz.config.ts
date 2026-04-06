@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "localhost:8080",
+    baseUrl: "predictive-history-analysis.vercel.app",
     ignorePatterns: ["private", "templates", ".obsidian", "articles", "website", "node_modules"],
     defaultDateType: "modified",
     theme: {
