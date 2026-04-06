@@ -1,5 +1,5 @@
 {
   "installCommand": "bun install",
-  "buildCommand": "bunx quartz build",
+  "buildCommand": "bun run quartz build",
   "outputDirectory": "public"
 }
