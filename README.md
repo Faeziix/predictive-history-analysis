@@ -1,17 +1,44 @@
-# Quartz v4
+# Predictive History News Analyzer
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A research system that cross-references real-world events against Professor Jiang's geopolitical predictions from the "Game Theory" / "Predictive History" series. Built as an Obsidian vault published with [Quartz](https://quartz.jzhao.xyz/).
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## What's Inside
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+- **15 tracked predictions** covering US-Iran war, Strait of Hormuz, global economic collapse, Pax Judaica, and more
+- **68 Zettelkasten notes** — atomic knowledge base of theoretical frameworks, geopolitical actors, and historical patterns
+- **Evidence notes** linking real-world news to specific claims
+- **Analysis reports** synthesizing evidence across claims
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Structure
 
-## Sponsors
+```
+content/                  # Obsidian vault
+├── 00-Dashboard/         # Overview and navigation
+├── 01-Claims/            # 15 tracked predictions
+├── 02-Evidence/          # News evidence linked to claims
+├── 03-Analysis/          # Synthesis reports
+├── 04-Sources/           # Article metadata and credibility
+├── 05-NotebookLM/        # Notebook registry
+├── 06-Zettelkasten/      # Atomic knowledge base
+└── Templates/            # Note templates
+```
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Run Locally
+
+```bash
+npm i
+npx quartz build --serve
+```
+
+Then open http://localhost:8080.
+
+## Claim Status Taxonomy
+
+| Status | Meaning |
+|--------|---------|
+| UNVERIFIED | No evidence gathered yet |
+| PARTIALLY_SUPPORTED | Some evidence supports |
+| SUPPORTED | Strong evidence aligns |
+| CONTRADICTED | Evidence opposes |
+| EVOLVING | Actively developing, mixed signals |
+| DEBUNKED | Overwhelming evidence disproves |
