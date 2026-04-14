@@ -24,6 +24,17 @@ Professor Jiang grounds his predictions in historical precedent. These aren't ju
 - [[2008-financial-crisis-pattern]] - The modern template: predatory lending, bailouts for institutions, losses for citizens.
 - The 1929 crash and earlier speculative manias (Tulip Mania, South Sea Bubble) follow the same [[engineered-boom-bust-cycles]] pattern.
 
+## Covert Operations and False Flags
+- [[lavon-affair]] - 1954 Israeli false flag bombing American facilities in Egypt. Proof of concept for manipulating US policy.
+- [[uss-liberty-incident]] - 1967 intentional attack on US intelligence ship. The cover-up reveals structural leverage.
+- [[clean-break-memo]] - 1996 neocon blueprint that became 25 years of US wars. The Rosetta Stone of Middle East policy.
+
+## Zionist Infrastructure
+- [[balfour-declaration]] - The 1917 quid pro quo: drag America into WWI in exchange for Palestine.
+- [[bolshevik-revolution-pattern]] - 1917 pincer: securing Zionism in Palestine while destroying Christian nationalism in Russia.
+- [[scofield-reference-bible]] - Manufactured dispensationalist theology to create Christian Zionism.
+- [[maga-hijacking-pattern]] - Neocon infiltration of the populist movement. Same host-switching pattern as the 1980s.
+
 ## Religious Conflict
 - [[crusades-pattern]] - When eschatological motivation meets geopolitical ambition. Jerusalem as the prize.
 - [[fall-of-constantinople]] - The Second Rome falls, setting up Russia's claim as [[third-rome-concept|Third Rome]].

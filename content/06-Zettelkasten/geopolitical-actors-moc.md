@@ -24,10 +24,15 @@ The Predictive History framework tracks actors at multiple levels: nations, tran
 
 ## Transnational Forces
 - [[transnational-capital]] - The layer above nation-states. Families, funds, and networks that operate beyond democratic accountability.
+- [[rothschild-network]] - The archetypal dynasty: cross-border credit networks funding Zionism from the [[balfour-declaration]] to today.
 - [[military-industrial-complex]] - Not a defense system but a [[engineered-boom-bust-cycles|wealth extraction mechanism]] disguised as one.
+- [[neoconservative-movement]] - Former Trotskyites who captured US foreign policy for Israeli objectives. Authors of the [[clean-break-memo]].
 - [[intelligence-networks]] - Mossad, CIA, and others as enforcement arms of [[transnational-capital]]. See [[CLAIM-013-epstein-intel-networks]].
 - [[silicon-valley-actor]] - The surveillance infrastructure builders. Key to [[pax-judaica-concept|Pax Judaica's]] AI governance vision.
 - [[wall-street-actor]] - The financial machinery behind [[engineered-boom-bust-cycles]].
+
+## Historical Figures
+- [[theodor-herzl]] - Father of political Zionism. Built the institutional architecture that runs Washington lobbying to this day.
 
 ## Ideological Blocs
 - [[christian-nationalism]] - The domestic ideology driving the [[technate]] vision.

@@ -41,6 +41,8 @@ Iraq was the easy version. Iran is harder in every dimension:
 - [[law-of-escalation]] - Demonstrated clearly
 - [[cost-pyramid]] - Financial unsustainability
 - [[military-industrial-complex]] - Profitable failure
+- [[clean-break-memo]] - The 1996 document that called for this exact war
+- [[neoconservative-movement]] - The political force that made it happen
 - [[iran-actor]] - The harder target
 - [[CLAIM-001-us-iran-war]] - The predicted repeat
 - [[historical-patterns-moc]] - Other patterns

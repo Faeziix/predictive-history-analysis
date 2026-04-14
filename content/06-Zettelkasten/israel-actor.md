@@ -55,5 +55,10 @@ Israel replaces America as Middle Eastern hegemon. Absorbs GCC states. Controls 
 - [[third-temple-prophecy]] - The eschatological goal
 - [[chabad-lubavitch]] - The religious movement driving acceleration
 - [[transnational-capital]] - The backers
+- [[clean-break-memo]] - The 1996 blueprint Israel's allies wrote
+- [[neoconservative-movement]] - The political movement executing the plan through the US
+- [[lavon-affair]] - Early covert operations against the US
+- [[uss-liberty-incident]] - The 1967 attack on a US warship
+- [[october-7-al-aqsa-flood]] - The event accelerating the cascade
 - [[law-of-the-jungle]] - Why Israel and Iran eventually partner
 - [[CLAIM-007-pax-judaica]] - The tracked prediction

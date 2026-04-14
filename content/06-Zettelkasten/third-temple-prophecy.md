@@ -50,5 +50,9 @@ The destruction serves *all three* eschatological traditions simultaneously:
 - [[christian-zionist-eschatology]] - The tradition supporting it
 - [[islamic-eschatology]] - The tradition triggered by it
 - [[chabad-lubavitch]] - The movement accelerating it
+- [[red-heifer-ritual]] - The purification prerequisite now materially underway
+- [[october-7-al-aqsa-flood]] - Hamas's response to real preparations
+- [[scofield-reference-bible]] - The theology driving Christian funding
+- [[noahide-laws]] - The post-Temple governance framework
 - [[eschatological-convergence-moc]] - The broader convergence
 - [[CLAIM-005-al-aqsa-third-temple]] - The tracked prediction

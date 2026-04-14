@@ -40,6 +40,7 @@ Jiang connects this tradition to:
 ## Related
 - [[jewish-eschatology]] - The broader tradition
 - [[chabad-lubavitch]] - The active movement
+- [[rothschild-network]] - Alleged Frankist connections in the dynasty
 - [[law-of-eschatological-convergence]] - The analytical framework
 - [[third-temple-prophecy]] - The goal
 - [[CLAIM-013-epstein-intel-networks]] - Connected network

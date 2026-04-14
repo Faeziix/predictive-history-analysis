@@ -17,11 +17,14 @@ This is the [[law-of-eschatological-convergence]] in action.
 - The coming of Mashiach (Messiah)
 - Ingathering of exiles to Israel
 - [[chabad-lubavitch]] movement's active pursuit of these goals
+- [[noahide-laws]] as the post-messianic governance framework for gentiles
+- [[red-heifer-ritual]] preparations actively underway
 
 ### [[christian-zionist-eschatology]]
 - Third Temple as prerequisite for Second Coming of Christ
 - Battle of Armageddon in the Holy Land
 - Rapture theology driving US evangelical support for Israel
+- Manufactured by the [[scofield-reference-bible]] and [[rothschild-network|Rothschild]]-connected publishing
 - Massive political influence on US foreign policy
 
 ### [[islamic-eschatology]]
@@ -47,8 +50,15 @@ The insight isn't that prophecies are *true* - it's that they're *operative*. Wh
 
 The convergence point is Jerusalem. The trigger is the US-Iran war. The accelerant is that every major actor has religious reasons to escalate rather than compromise.
 
+## The Material Preparations
+- [[red-heifer-ritual]] - American-bred cows shipped to Israel for Temple purification. Prophecy became logistics.
+- [[october-7-al-aqsa-flood]] - Hamas attacked precisely because Temple preparations became real. Resistance accelerated the cascade.
+- [[noahide-laws]] - The hidden endgame: Christian Zionists fund a project whose theology ends Christianity.
+
 ## Related
 - [[platos-cave-analogy]] - Eschatology as the ultimate "cave" - the narrative that shapes what actors see as real
+- [[scofield-reference-bible]] - The manufactured theology that created the Christian Zionist constituency
+- [[theodor-herzl]] - The architect who needed religious masses for a political project
 - [[CLAIM-005-al-aqsa-third-temple]]
 - [[CLAIM-007-pax-judaica]]
 - [[CLAIM-004-russia-third-rome]]

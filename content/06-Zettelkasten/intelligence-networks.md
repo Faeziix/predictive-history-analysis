@@ -44,3 +44,6 @@ Jiang frames Epstein not as an isolated predator but as a node in a systematic c
 - [[platos-cave-analogy]] - How narrative control works
 - [[israel-actor]] - Mossad as proof of capability
 - [[chabad-lubavitch]] - Connected networks
+- [[lavon-affair]] - 1954 false flag operation against US facilities
+- [[uss-liberty-incident]] - 1967 attack on US intelligence ship
+- [[maga-hijacking-pattern]] - Blackmail as political control mechanism

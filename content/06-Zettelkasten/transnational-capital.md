@@ -49,6 +49,8 @@ Jiang argues transnational capital is currently:
 - [[engineered-boom-bust-cycles]] - The extraction mechanism
 - [[platos-cave-analogy]] - The narrative cover
 - [[intelligence-networks]] - The enforcement arm
+- [[rothschild-network]] - The archetypal dynasty
 - [[price-hierarchy]] - The structural framework for extraction
 - [[pax-judaica-concept]] - The predicted next host
+- [[balfour-declaration]] - Historical evidence of the deal-making
 - [[CLAIM-013-epstein-intel-networks]] - Evidence of control mechanisms

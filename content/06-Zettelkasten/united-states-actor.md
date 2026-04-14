@@ -63,3 +63,7 @@ The US isn't declining accidentally. In Jiang's framework, it's being *deliberat
 - [[israel-actor]] - The replacement empire
 - [[transnational-capital]] - The parasite class
 - [[military-industrial-complex]] - The extraction mechanism
+- [[clean-break-memo]] - The blueprint that redirected US military power
+- [[neoconservative-movement]] - The political force that captured US foreign policy
+- [[maga-hijacking-pattern]] - How "America First" became "Israel First"
+- [[balfour-declaration]] - The original template for using American power

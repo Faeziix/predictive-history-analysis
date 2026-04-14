@@ -42,6 +42,9 @@ Christian Zionist eschatology converges with [[jewish-eschatology]] on the Third
 ## Related
 - [[jewish-eschatology]] - The convergent tradition
 - [[third-temple-prophecy]] - The shared goal
+- [[scofield-reference-bible]] - The manufactured theology that created Christian Zionism
+- [[noahide-laws]] - The hidden endgame for Christians in this alliance
+- [[red-heifer-ritual]] - The material preparation Christians are funding
 - [[christian-nationalism]] - The domestic political expression
 - [[technate]] - Where Christian Nationalism leads
 - [[eschatological-convergence-moc]] - The broader map
