@@ -3,7 +3,7 @@ claim_id: CLAIM-015
 status: EVOLVING
 category: social
 source_episodes: ["Game Theory #15", "Game Theory #17"]
-last_checked: 2026-04-03
+last_checked: 2026-04-06
 confidence: 40
 ---
 

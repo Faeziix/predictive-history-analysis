@@ -65,4 +65,22 @@ MOC: `ethnic-cleansing-palestine-moc.md`
 
 ## [2026-05-05] wiki-upgrade | LLM Wiki pattern instantiated
 
+Added `log.md` (this file), rebuilt `index.md` as full content catalog, added Ingest/Query/Lint workflows to `CLAUDE.md`. Added Palestine cluster to `predictive-history-moc.md` (was orphan from master nav). Added Featured Research section and Palestine quick nav to homepage.
+
+---
+
+## [2026-05-05] lint | Full vault health check — 2 issues found
+
+**Results:**
+
+- ✅ Check 1 (Contradictions): PASS — 2 tracked contradictions on CLAIM-011, both properly documented
+- ⚠️ Check 2 (Stale Claims): FIXED — Individual claim files for CLAIM-003/004/008/011/014/015 had `last_checked: 2026-04-03`; corrected to `2026-04-06` to match registry (drift from cycle 2 update not propagating to all files)
+- ✅ Check 3 (Orphan Pages): PASS — `japan-actor.md` flagged but correctly linked from `geopolitical-actors-moc.md`; false positive
+- ✅ Check 4 (Missing Pages): PASS — all wikilinks resolve
+- ✅ Check 5 (Status Drift): PASS — all statuses synchronized
+- ✅ Check 6 (Cross-References): PASS — all evidence notes linked from claim files
+- ℹ️ Check 7 (Data Gaps): 5 claims critically sparse — CLAIM-003, CLAIM-004, CLAIM-009, CLAIM-014, CLAIM-015 each have only 1 evidence note; recommended next ingest priorities
+
+**Next ingest priorities**: Russia/Ukraine territorial control (CLAIM-004), US military recruitment data (CLAIM-003), GAO contractor reports (CLAIM-014), IMF boom-bust correlation data (CLAIM-009), UN OCHA humanitarian tracking (CLAIM-015).
+
 Added `log.md` (this file), rebuilt `index.md` as full content catalog, added Ingest/Query/Lint workflows to `CLAUDE.md`.

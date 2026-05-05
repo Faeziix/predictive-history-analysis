@@ -28,6 +28,9 @@ Where religious end-times narratives from Judaism, Christianity, Islam, and Russ
 ### [[economic-warfare-moc|Economic Warfare]]
 How financial systems, energy, and trade are weaponized. The dollar, oil, boom-bust cycles, and the end of globalization.
 
+### [[ethnic-cleansing-palestine-moc|Ethnic Cleansing of Palestine]]
+The 1948 Nakba as foundational context for the current conflict cascade. Plan Dalet, Deir Yassin, Arab armies' phony war, Jordan-Zionist collusion, and the structural role of Nakba denial in preventing peace. Required reading for understanding CLAIM-005, CLAIM-007, and CLAIM-011.
+
 ## How This Vault Works
 
 This is a [[zettelkasten]] - a network of atomic notes connected by meaning, not hierarchy. Each note covers one idea. Follow the `[[links]]` to explore naturally. The graph view in Obsidian reveals how ideas cluster and connect.

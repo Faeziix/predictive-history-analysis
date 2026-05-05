@@ -3,7 +3,7 @@ claim_id: CLAIM-003
 status: EVOLVING
 category: military
 source_episodes: ["Game Theory #11", "Game Theory #14"]
-last_checked: 2026-04-03
+last_checked: 2026-04-06
 confidence: 40
 ---
 

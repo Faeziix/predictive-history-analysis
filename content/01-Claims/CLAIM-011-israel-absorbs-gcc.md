@@ -3,7 +3,7 @@ claim_id: CLAIM-011
 status: UNVERIFIED
 category: geopolitical
 source_episodes: ["Game Theory #16", "Game Theory #18"]
-last_checked: 2026-04-03
+last_checked: 2026-04-06
 confidence: 10
 ---
 

@@ -3,7 +3,7 @@ claim_id: CLAIM-008
 status: EVOLVING
 category: geopolitical
 source_episodes: ["Game Theory #18", "Game Theory #17"]
-last_checked: 2026-04-03
+last_checked: 2026-04-06
 confidence: 50
 ---
 

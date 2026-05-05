@@ -6,7 +6,16 @@ title: Predictive History News Analyzer
 
 Cross-references real-world events against Professor Jiang's geopolitical predictions from the "Game Theory" / "Predictive History" series.
 
-**Quick nav**: [[log|Log]] · [[_claims-registry|Claims]] · [[_evidence-index|Evidence]] · [[_analysis-index|Analysis]] · [[_source-index|Sources]] · [[predictive-history-moc|Zettelkasten]]
+**Quick nav**: [[log|Log]] · [[_claims-registry|Claims]] · [[_evidence-index|Evidence]] · [[_analysis-index|Analysis]] · [[_source-index|Sources]] · [[predictive-history-moc|Zettelkasten]] · [[ethnic-cleansing-palestine-moc|Palestine 1948]]
+
+---
+
+## Featured Research
+
+### [[ethnic-cleansing-palestine-moc|Ethnic Cleansing of Palestine (1948)]]
+25-note knowledge cluster on the Nakba based on Ilan Pappé's *The Ethnic Cleansing of Palestine*. Covers Plan Dalet, Deir Yassin and Tantura massacres, Arab armies' phony war, Jordan-Zionist collusion, village files intelligence system, memoricide, urbicide, and how Nakba denial is structurally embedded in the peace process. Foundational context for [[CLAIM-005-al-aqsa-third-temple|CLAIM-005]], [[CLAIM-007-pax-judaica|CLAIM-007]], and [[CLAIM-011-israel-absorbs-gcc|CLAIM-011]].
+
+> Key atomic notes: [[plan-dalet]] · [[deir-yassin-massacre]] · [[tantura-massacre]] · [[arab-armies-phony-war]] · [[jordan-zionist-collusion]] · [[nakba-denial-peace-process]] · [[the-memoricide]] · [[urbicide-of-palestine]]
 
 ---
 

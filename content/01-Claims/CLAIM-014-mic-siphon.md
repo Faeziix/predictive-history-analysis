@@ -3,7 +3,7 @@ claim_id: CLAIM-014
 status: SUPPORTED
 category: military
 source_episodes: ["Game Theory #7", "Game Theory #10"]
-last_checked: 2026-04-03
+last_checked: 2026-04-06
 confidence: 80
 ---
 
