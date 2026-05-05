@@ -11,7 +11,7 @@ source_episodes: ["The Ethnic Cleansing of Palestine — Ilan Pappe"]
 
 ## The JNF Forests
 
-The Jewish National Fund — the same organization that had purchased Palestinian land and evicted tenant farmers before 1948 — was given custody of the confiscated lands after the ethnic cleansing. Its new mission was to make the destruction permanent and invisible. The JNF planted massive forests of European pine and cypress trees directly over the rubble of destroyed Palestinian villages, burying the physical evidence under a canopy of green.
+The [[zionist-economic-colonization|Jewish National Fund]] — the same organization that had purchased Palestinian land and evicted tenant farmers before 1948 — was given custody of the confiscated lands after the ethnic cleansing. Its new mission was to make the destruction permanent and invisible. The JNF planted massive forests of European pine and cypress trees directly over the rubble of destroyed Palestinian villages, burying the physical evidence under a canopy of green.
 
 These forests were not conservation projects. They were acts of concealment. A forest of pine trees was planted over the destroyed village of Lubya, near the "Golani Junction." Only the diligent work of historian Mahmoud Issa, now living in Denmark, has enabled visitors to trace the vestiges of the village beneath the trees. Similar forests cover the ruins of hundreds of other villages. The Birya Forest, Ramat Menashe Park, and the Jerusalem Forest all serve as "green lungs" that deliberately conceal the tragedy buried beneath their picnic tables, playgrounds, and walking trails.
 
@@ -33,7 +33,7 @@ Some survivors and their descendants have refused to let the memoricide succeed.
 
 ## The New Narrative
 
-The memoricide extended beyond landscape into historiography. Official Israeli history constructed a founding myth: "a land without a people for a people without a land." Palestinians were written out of history entirely. Their flight was described as "voluntary" — a myth debunked by declassified Israeli military archives showing systematic expulsion orders. The Nakba was reframed as an unfortunate side-effect of a "war of independence" rather than a premeditated campaign. For decades, even the word "Nakba" was suppressed in Israeli public discourse.
+The memoricide extended beyond landscape into historiography. Official Israeli history constructed a founding myth — the same [[nakba-denial-peace-process|structural denial]] that undergirds the peace process: "a land without a people for a people without a land." Palestinians were written out of history entirely. Their flight was described as "voluntary" — a myth debunked by declassified Israeli military archives showing systematic expulsion orders under [[plan-dalet]]. The Nakba was reframed as an unfortunate side-effect of a "war of independence" rather than a premeditated campaign. For decades, even the word "Nakba" was suppressed in Israeli public discourse.
 
 Today, hundreds of thousands of Israelis commute daily on highways built over the ruins of Palestinian villages, driving through Jewish settlements, pine forests, and commercial developments without the slightest notion of what lies beneath. Two highways between Haifa and Tel Aviv alone pass through the remains of sixty-four destroyed villages.
 
@@ -41,7 +41,7 @@ Today, hundreds of thousands of Israelis commute daily on highways built over th
 
 The memoricide extends into law and education. The **Nakba Law** forbids public mourning of the establishment of the state of Israel and increases punishments for commemorating the catastrophe. The school system was "Israelized" to the point of, as one Israeli professor put it, "obliterating all signs of Palestinian continuous existence on the land." All mentions of Palestine were erased from textbooks. Israel continues to destroy and loot Palestinian archives to this day — over **70,000 books** were stolen during and after the Nakba. Islamic holy places have been turned into restaurants, shops, or luxury resorts.
 
-The scale of material theft was staggering: over **4 million acres** of Palestinian land were seized, an estimated **$100-120 billion US** in property was stolen, and **774 Palestinian villages and towns** were seized by Israel, of which **531** were completely extinguished.
+The scale of material theft was staggering: over **4 million acres** of Palestinian land were seized, an estimated **$100-120 billion US** in property was stolen, and **774 Palestinian villages and towns** were seized by Israel, of which **531** were completely extinguished during the [[nakba-1948]].
 
 ## Key Insight
 

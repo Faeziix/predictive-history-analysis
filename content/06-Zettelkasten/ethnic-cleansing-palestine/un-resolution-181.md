@@ -37,11 +37,11 @@ Ben-Gurion simultaneously accepted and rejected the plan. He accepted the intern
 
 The Arab League and the Arab Higher Committee boycotted the UNSCOP proceedings. Palestinian historians have argued that the procedures the UN followed were unjust and illegal — the native people of Palestine, like native peoples everywhere, "refused to divide the land with a settler community." The boycott is often cited in Israeli propaganda as proof that Palestinians were responsible for their own fate. But the UN had already stacked the cards: the outcome was predetermined regardless of Palestinian participation.
 
-A secret deal was struck with King Abdullah of Jordan, who agreed to annex the West Bank and refrain from joining any all-Arab military operation against the Jewish state. This neutralized the strongest Arab army and ensured the Zionist forces would face only disorganized, poorly equipped opponents.
+A [[jordan-zionist-collusion|secret deal]] was struck with King Abdullah of Jordan, who agreed to annex the West Bank and refrain from joining any all-Arab military operation against the Jewish state. This neutralized the strongest Arab army and ensured the Zionist forces would face only disorganized, poorly equipped opponents.
 
 ## The Trigger
 
-The partition vote did not cause the ethnic cleansing — the plans, the intelligence files, and the ideology were already in place. But Resolution 181 provided two things: international legitimacy for a Jewish state and a trigger event that accelerated the timetable. Within days of the vote, the first Jewish attacks on Palestinian villages and neighborhoods began. The chaos that followed the partition vote, Pappe argues, was not the spontaneous outbreak of civil war but the beginning of a systematic campaign that had been prepared for years.
+The partition vote did not cause the ethnic cleansing — the plans, the [[village-files|intelligence files]], and the ideology were already in place. But Resolution 181 provided two things: international legitimacy for a Jewish state and a trigger event that accelerated the timetable. Within days of the vote, the first Jewish attacks on Palestinian villages and neighborhoods began — directed by [[the-consultancy]]. The chaos that followed the partition vote, Pappe argues, was not the spontaneous outbreak of civil war but the beginning of a systematic campaign that had been prepared for years.
 
 ## Key Insight
 

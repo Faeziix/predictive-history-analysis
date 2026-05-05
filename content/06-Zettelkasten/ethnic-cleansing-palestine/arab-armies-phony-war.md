@@ -11,9 +11,9 @@ source_episodes: ["The Ethnic Cleansing of Palestine — Ilan Pappe"]
 
 ## The Myth vs. Reality
 
-The standard Israeli narrative, repeated by propagandists like Alan Dershowitz -- "At great cost in human life, the ragtag Israeli army defeated the invading Arab armies and the Palestinian attackers" -- inverts reality. By May 1948, the Israeli army stood at over 80,000 troops, half of them trained by the British during the Mandate period. They were equipped with tanks, armored cars, heavy artillery, a small air force, and a navy. They had received a large shipment of heavy arms from Czechoslovakia and the Soviet Union.
+The standard Israeli narrative, repeated by propagandists like Alan Dershowitz -- "At great cost in human life, the ragtag Israeli army defeated the invading Arab armies and the Palestinian attackers" -- inverts reality. By May 1948, the Israeli army — built from the [[zionist-paramilitary-organizations]] — stood at over 80,000 troops, half of them trained by the British during the Mandate period. They were equipped with tanks, armored cars, heavy artillery, a small air force, and a navy. They had received a large shipment of heavy arms from Czechoslovakia and the Soviet Union.
 
-Facing them were less than 50,000 uncoordinated Arab troops from multiple countries with no unified command structure, whose main arms suppliers -- Britain and France -- had imposed an arms embargo that crippled them while barely affecting the Zionist forces, who found willing suppliers in the Communist Eastern bloc. About 250,000 Palestinians and roughly half of all Arab villages had already been assaulted before any Arab army crossed the border.
+Facing them were less than 50,000 uncoordinated Arab troops from multiple countries with no unified command structure, whose main arms suppliers -- Britain and France -- had imposed an arms embargo that crippled them while barely affecting the Zionist forces, who found willing suppliers in the Communist Eastern bloc. About 250,000 Palestinians and roughly half of all Arab villages had already been assaulted under [[plan-dalet]] before any Arab army crossed the border.
 
 ## The Arab League's Paralysis
 
@@ -23,7 +23,7 @@ On April 30, 1948, Arab leaders finally decided to send regular forces by mid-Ma
 
 ## Army by Army
 
-**Jordan (The Arab Legion):** The best-trained and most professional Arab army, but already in a [[jordan-zionist-collusion|tacit alliance with the Zionists]]. Most senior officers were British. King Abdullah, chosen as Supreme Commander of all Arab forces despite everyone knowing he was a fraud, used his position to ensure catastrophic coordination. The Legion defended only the territories Abdullah claimed for himself (the West Bank and East Jerusalem) and withdrew from areas like Lydda and Ramle, abandoning 100,000 Palestinians to expulsion. His British Chief of Staff called the entire engagement "the phony war."
+**Jordan (The Arab Legion):** The best-trained and most professional Arab army, but already in a [[jordan-zionist-collusion|tacit alliance with the Zionists]]. Most senior officers were British. King Abdullah, chosen as Supreme Commander of all Arab forces despite everyone knowing he was a fraud (see [[jordan-zionist-collusion]]), used his position to ensure catastrophic coordination. The Legion defended only the territories Abdullah claimed for himself (the West Bank and East Jerusalem) and withdrew from areas like [[urbicide-of-palestine|Lydda and Ramle]], abandoning 100,000 Palestinians to expulsion. His British Chief of Staff called the entire engagement "the phony war."
 
 **Egypt:** Waited until the very end, after American peace efforts failed. Egyptian leaders knew engagement would end in chaos. Egyptian volunteers, especially the Muslim Brotherhood, showed tenacity in holding their lines in the Negev despite poor equipment, but their main mission quickly became protecting the regime, not rescuing Palestine. Their air force managed only a few raids on Tel-Aviv before being redirected to protect Arab capitals.
 

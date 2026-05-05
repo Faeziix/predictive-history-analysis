@@ -17,13 +17,13 @@ The immediate spark was the death of Izz al-Din al-Qassam, a Syrian exile preach
 
 ## The Revolt
 
-Known to Palestinians as **Al-Thawra Al-Kubra** (the Great Revolt) — sometimes called the first intifada — the revolt was primarily a popular, rural peasant uprising. Poor peasant volunteers made up 90% of the revolutionaries. It began with a six-month general strike declared in mid-1936 and evolved into a full guerrilla war against the British and the Zionist settler economy. The official Palestinian leadership, the Arab Higher Committee led by the Mufti al-Hajj Amin al-Husayni, only joined because they realized that if they did not follow the "tsunami of resistance," it would engulf them. Foreign volunteers, including Syrian officer Fawzi al-Qawqji, brought fighters from Iraq.
+Known to Palestinians as **Al-Thawra Al-Kubra** (the Great Revolt) — sometimes called the first intifada — the revolt was primarily a popular, rural peasant uprising. Poor peasant volunteers made up 90% of the revolutionaries. It began with a six-month general strike declared in mid-1936 and evolved into a full guerrilla war against the British and the Zionist settler economy. The official Palestinian leadership, the Arab Higher Committee led by the Mufti al-Hajj Amin al-Husayni (see [[palestinian-elite-betrayal]]), only joined because they realized that if they did not follow the "tsunami of resistance," it would engulf them. Foreign volunteers, including Syrian officer Fawzi al-Qawqji, brought fighters from Iraq.
 
 The **keffiyeh** emerged for the first time as a symbol of Palestinian resistance during this revolt.
 
 ## The Suppression
 
-Britain deployed 100,000 soldiers to Palestine — approximately one colonial soldier for every eight Palestinians, far surpassing colonial military presence in most other countries — and spent three years conducting brutal attacks on the Palestinian countryside. The Hagana actively participated, teaming up with British companies for "punitive missions." A British officer named Orde Wingate taught Hagana fighters aggressive combat tactics, including violent raids on defenseless villages and the use of bayonets on civilians. The [[zionist-paramilitary-organizations]] also armed rival Palestinian factions ("peace gangs") to fight against the national formations — a divide-and-rule tactic.
+Britain deployed 100,000 soldiers to Palestine — approximately one colonial soldier for every eight Palestinians, far surpassing colonial military presence in most other countries — and spent three years conducting brutal attacks on the Palestinian countryside. The [[zionist-paramilitary-organizations|Hagana]] actively participated, teaming up with British companies for "punitive missions." A British officer named Orde Wingate taught Hagana fighters aggressive combat tactics, including violent raids on defenseless villages and the use of bayonets on civilians. The [[zionist-paramilitary-organizations]] also armed rival Palestinian factions ("peace gangs") to fight against the national formations — a divide-and-rule tactic.
 
 ## The Consequences for 1948
 
@@ -38,7 +38,7 @@ Meanwhile, the Zionist forces emerged from the period strengthened: trained by B
 
 ## The Pattern
 
-The 1936 revolt follows a pattern recognizable across colonial history: an indigenous uprising against dispossession is crushed by imperial power, the suppression destroys the capacity for future resistance, and the colonizers exploit the resulting power vacuum. What makes Palestine distinctive is the precision with which the Zionist movement used the revolt's suppression to prepare for the final takeover — turning British counterinsurgency data into their own operational intelligence for ethnic cleansing.
+The 1936 revolt follows a pattern recognizable across colonial history: an indigenous uprising against dispossession is crushed by imperial power, the suppression destroys the capacity for future resistance, and the colonizers exploit the resulting power vacuum. What makes Palestine distinctive is the precision with which the Zionist movement used the revolt's suppression to prepare for the final takeover — turning British counterinsurgency data into their own operational intelligence in the [[village-files]] for [[nakba-1948|ethnic cleansing]].
 
 ## Key Insight
 

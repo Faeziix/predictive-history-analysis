@@ -11,7 +11,7 @@ source_episodes: ["The Ethnic Cleansing of Palestine — Ilan Pappe"]
 
 ## The Haganah
 
-Established in 1920, the Haganah (Hebrew for "defence") was the principal paramilitary organization of the Jewish community in Palestine. Ostensibly created to protect Jewish colonies, it was in reality the military arm of the Jewish Agency and the Zionist governing body in Palestine. Under the influence of British officer Orde Wingate, who taught aggressive combat tactics during the 1936 revolt, the Haganah transformed from a defensive militia into an offensive military force capable of executing [[plan-dalet]].
+Established in 1920, the Haganah (Hebrew for "defence") was the principal paramilitary organization of the Jewish community in Palestine. Ostensibly created to protect Jewish colonies, it was in reality the military arm of the Jewish Agency and the Zionist governing body in Palestine. Under the influence of British officer Orde Wingate, who taught aggressive combat tactics during the [[1936-arab-revolt|1936 revolt]], the Haganah transformed from a defensive militia into an offensive military force capable of executing [[plan-dalet]].
 
 The Haganah had an intelligence unit founded in 1933, which supervised the preparation of the [[village-files]] and established a network of spies and collaborators inside Palestinian communities. By 1948, the Haganah had approximately 30,000 fighting troops out of a total force of 50,000, supported by a small air force, navy, and units of tanks and armored cars. It received a large shipment of heavy arms from Czechoslovakia and the Soviet Union, giving it artillery unmatched by all the Arab armies combined.
 
@@ -35,11 +35,11 @@ The Irgun was responsible for the [[deir-yassin-massacre]] and was later absorbe
 
 The Stern Gang was an offshoot of the Irgun, splitting from it in 1940. It went further than any other Zionist organization in its pursuit of alliances with fascist powers. The Stern Gang sought an alliance with **Nazi Germany** more than once, proposing to create a Jewish state based on "Nationalist and totalitarian principles" that would be linked to the German Reich. The offer included providing military cooperation in exchange for Nazi support for Jewish emigration to Palestine.
 
-The Stern Gang assassinated [[count-bernadotte-resolution-194|Count Folke Bernadotte]], the UN mediator, in September 1948 for demanding the unconditional return of Palestinian refugees. Together with the Haganah and the Irgun, the three organizations were united into one military army during the Nakba, although they did not always act in coordination.
+The Stern Gang assassinated [[count-bernadotte-resolution-194|Count Folke Bernadotte]], the UN mediator, in September 1948 for demanding the unconditional return of Palestinian refugees. Together with the Haganah and the Irgun, the three organizations were united into one military army during the [[nakba-1948|Nakba]], although they did not always act in coordination.
 
 ## The Haganah-Nazi Connection
 
-The connections between Zionist organizations and Nazi Germany extended beyond the Stern Gang. The Jewish Agency struck a deal with the Nazis known as the **Transfer Agreement (Haavara)**, circumventing a Jewish boycott of Germany. A Haganah representative met with German intelligence agent Adolf Eichmann -- later an architect of the Holocaust. In exchange for providing information about alleged "Jewish plots against prominent Nazis," the SS would help push German Jews toward Palestine exclusively, blocking their emigration elsewhere. The Haganah representative reportedly thanked Eichmann for supplying the Haganah with guns and ammunition that were used against Palestinians during the [[1936-arab-revolt]].
+The connections between Zionist organizations and Nazi Germany extended beyond the Stern Gang. The Jewish Agency struck a deal with the Nazis known as the **Transfer Agreement (Haavara)**, circumventing a Jewish boycott of Germany. A Haganah representative met with German [[intelligence-networks|intelligence]] agent Adolf Eichmann -- later an architect of the Holocaust. In exchange for providing information about alleged "Jewish plots against prominent Nazis," the SS would help push German Jews toward Palestine exclusively, blocking their emigration elsewhere. The Haganah representative reportedly thanked Eichmann for supplying the Haganah with guns and ammunition that were used against Palestinians during the [[1936-arab-revolt]].
 
 ## The Field Guard (Hish)
 

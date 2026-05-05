@@ -17,13 +17,13 @@ Count Folke Bernadotte arrived in Palestine on May 20, 1948 and stayed there unt
 
 Despite the ongoing negotiations to broker a truce, the ethnic cleansing moved on unhindered. Bernadotte had already called for the refugees' repatriation during the first truce, which had been ignored. He then put forward a proposal to re-divide the country in half and demanded the unconditional return of all the refugees. When he repeated his recommendation in the final report he submitted to the UN, he was assassinated.
 
-Bernadotte succeeded in focusing international pressure on Israel. To counteract this, the Israeli architects of the ethnic cleansing programme realized they would need to involve the state's diplomats and the Foreign Ministry more directly. By July, the political apparatus, the diplomatic corps, and the military organisations within the new State of Israel were already working harmoniously together to manage the public relations dimension while the cleansing continued.
+Bernadotte succeeded in focusing international pressure on Israel. To counteract this, the Israeli architects of the [[nakba-1948|ethnic cleansing]] programme — [[the-consultancy]] — realized they would need to involve the state's diplomats and the Foreign Ministry more directly. By July, the political apparatus, the diplomatic corps, and the military organisations within the new State of Israel were already working harmoniously together to manage the public relations dimension while the cleansing continued.
 
 Bernadotte's mission was the first official UN mediation in history. His call for repatriation caused the Zionist leadership to "explode at the thought." To counteract his growing international influence, the Israeli architects of the ethnic cleansing programme involved the state's diplomats and Foreign Ministry more directly in managing public relations while the cleansing continued.
 
 ## The Assassination
 
-In September 1948, members of the Stern Gang (Lehi) assassinated Bernadotte in Jerusalem. The murder of a UN mediator -- a man who had risked his life to save Jews from the Holocaust -- for the crime of demanding that refugees be allowed to return to their homes was a measure of how absolute the commitment to the demographic project had become. No international figure would ever again demand the refugees' unconditional return with such authority.
+In September 1948, members of the [[zionist-paramilitary-organizations|Stern Gang (Lehi)]] assassinated Bernadotte in Jerusalem. The murder of a UN mediator -- a man who had risked his life to save Jews from the Holocaust -- for the crime of demanding that refugees be allowed to return to their homes was a measure of how absolute the commitment to the demographic project had become. No international figure would ever again demand the refugees' unconditional return with such authority.
 
 ## Resolution 194
 
@@ -37,7 +37,7 @@ The International Refugee Organization (IRO), which had helped Jewish refugees f
 
 ## The Anti-Repatriation Response
 
-Israel's response to Resolution 194 was to accelerate the destruction of Palestinian homes and villages. The pace of demolition was deliberately increased with the specific aim of invalidating any discussion on the subject of refugees returning to their houses, since those houses would no longer be there. The governmental decision to destroy all evicted villages was taken in August 1948 and implemented through systematic demolition campaigns that continued into 1949.
+Israel's response to Resolution 194 was to accelerate the destruction of Palestinian homes and villages. The pace of [[the-memoricide|demolition]] was deliberately increased with the specific aim of invalidating any discussion on the subject of refugees returning to their houses, since those houses would no longer be there. The governmental decision to destroy all evicted villages was taken in August 1948 and implemented through systematic demolition campaigns that continued into 1949.
 
 ## Key Insight
 

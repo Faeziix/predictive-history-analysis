@@ -17,7 +17,7 @@ Every brigade assigned to Nachshon was asked to move into *Mazav Dalet* — Stat
 
 ## The Method
 
-The Palmach units received their orders on April 1, 1948. The Consultancy had met the night before at Ben-Gurion's house to finalize directives. The orders were clear: "the principal objective of the operation is the destruction of Arab villages... and the eviction of the villagers so that they would become an economic liability for the general Arab forces."
+The [[zionist-paramilitary-organizations|Palmach]] units received their orders on April 1, 1948. [[the-consultancy|The Consultancy]] had met the night before at [[david-ben-gurion|Ben-Gurion]]'s house to finalize directives. The orders were clear: "the principal objective of the operation is the destruction of Arab villages... and the eviction of the villagers so that they would become an economic liability for the general Arab forces."
 
 The operational template established during Nachshon became standard:
 
@@ -33,9 +33,9 @@ The operational template established during Nachshon became standard:
 
 One by one, the villages along the Jerusalem corridor fell into Jewish hands. The Qastal — a village with ancient fortifications on the last western peak before Jerusalem — was among the first. The paramilitary groups of Abd al-Qadir al-Husayni put up more resistance than expected, but by April 9 the campaign was over. Al-Husayni himself was killed defending the Qastal, and his death demoralized Palestinian fighters across the Greater Jerusalem area. Villages were then surrounded, attacked, occupied, their people expelled and buildings demolished in rapid succession.
 
-It was also during Nachshon, on April 9, that the [[deir-yassin-massacre]] occurred — carried out by Irgun and Stern Gang forces as the Hagana operated nearby. The massacre served as a force multiplier: news of Deir Yassin accelerated flight from dozens of surrounding communities, making the Hagana's job easier.
+It was also during Nachshon, on April 9, that the [[deir-yassin-massacre]] occurred — carried out by [[zionist-paramilitary-organizations|Irgun and Stern Gang]] forces as the [[zionist-paramilitary-organizations|Hagana]] operated nearby. The massacre served as a force multiplier: news of Deir Yassin accelerated flight from dozens of surrounding communities, making the Hagana's job easier.
 
-Nachshon was also a novelty in other respects: it was the first operation where all Jewish military organizations (Hagana, Palmach, Irgun, Stern Gang) acted together as a single army, providing the operational basis for the future Israeli Defense Forces.
+Nachshon was also a novelty in other respects: it was the first operation where all [[zionist-paramilitary-organizations|Jewish military organizations]] (Hagana, Palmach, Irgun, Stern Gang) acted together as a single army, providing the operational basis for the future Israeli Defense Forces.
 
 ## Key Insight
 

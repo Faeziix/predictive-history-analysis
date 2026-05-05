@@ -11,17 +11,17 @@ source_episodes: ["The Ethnic Cleansing of Palestine — Ilan Pappe"]
 
 ## The 1967 Framework
 
-Israel established an axiom that the international community largely accepted: the "conflict" began with the 1967 occupation of the West Bank and Gaza. Everything before that date — the ethnic cleansing of 1948, the destruction of 531 villages, the expulsion of 800,000 people — was treated as settled history, not a live grievance requiring resolution. This framing meant that "peace" could only ever mean adjusting the terms of the 1967 occupation, never addressing the foundational crime.
+Israel established an axiom that the international community largely accepted: the "conflict" began with the 1967 occupation of the West Bank and Gaza — the same year as the [[uss-liberty-incident]], which revealed the lengths to which the US-Israel relationship would go to suppress inconvenient truths. Everything before that date — the [[nakba-1948|ethnic cleansing of 1948]], the destruction of [[the-memoricide|531 villages]], the expulsion of 800,000 people — was treated as settled history, not a live grievance requiring resolution. This framing meant that "peace" could only ever mean adjusting the terms of the 1967 occupation, never addressing the foundational crime.
 
 The United States adopted this framework fully. From 1967 onward, "bringing peace to Palestine" was always a concept exclusively worked out between the US and Israel, without any serious consultation with the Palestinians themselves. The refugees — the largest displaced population in the modern Middle East — were excluded from the conversation about their own fate.
 
 ## What Oslo Excluded
 
-The Oslo Accords of 1993 formalized the exclusion. The framework deferred the "final status" issues — Jerusalem, borders, settlements, and refugees — to future negotiations that never produced results. In practice, this meant the Palestinian right of return, guaranteed by UN Resolution 194 (passed December 11, 1948), was treated as a bargaining chip rather than a legal right.
+The Oslo Accords of 1993 formalized the exclusion. The framework deferred the "final status" issues — Jerusalem, borders, settlements, and refugees — to future negotiations that never produced results. In practice, this meant the Palestinian right of return, guaranteed by [[count-bernadotte-resolution-194|UN Resolution 194]] (passed December 11, 1948), was treated as a bargaining chip rather than a legal right.
 
 At the 2000 Camp David summit, Israeli negotiators categorically refused to discuss the right of return. The deeper reason, Pappe argues, was psychological: acknowledging the events of 1948 would force Jewish Israelis to recognize their role as perpetrators of ethnic cleansing, unraveling the foundational myths of the state. It was easier to insist the refugees simply didn't exist as a political category.
 
-Count Folke Bernadotte, the UN mediator who demanded the unconditional return of all refugees in 1948, was assassinated by Jewish terrorists in September of that year for making this demand. His posthumous report was adopted by the UN General Assembly as Resolution 194 — and has been systematically ignored by Israel ever since.
+[[count-bernadotte-resolution-194|Count Folke Bernadotte]], the UN mediator who demanded the unconditional return of all refugees in 1948, was assassinated by [[zionist-paramilitary-organizations|Jewish terrorists]] in September of that year for making this demand. His posthumous report was adopted by the UN General Assembly as Resolution 194 — and has been systematically ignored by Israel ever since.
 
 ## The "New Historians" Challenge
 
@@ -31,7 +31,7 @@ But the "new history" never entered the public realm of moral conscience and act
 
 ## Structural Denial
 
-Nakba denial functions not just as propaganda but as the legal and diplomatic foundation of every proposed "solution." The two-state solution, as typically formulated, accepts Israel within its pre-1967 borders — borders that were themselves the product of ethnic cleansing. To accept this framework is to accept that the 531 destroyed villages, the 800,000 refugees and their millions of descendants, and the entire pre-1948 Palestinian society simply do not count.
+Nakba denial functions not just as propaganda but as the legal and diplomatic foundation of every proposed "solution." The two-state solution, as typically formulated, accepts Israel within its pre-1967 borders — borders that were themselves the product of [[nakba-1948|ethnic cleansing]]. To accept this framework is to accept that the [[the-memoricide|531 destroyed villages]], the 800,000 refugees and their millions of descendants, and the entire pre-1948 Palestinian society simply do not count.
 
 The Geneva Accord, the Arab Peace Initiative, and every subsequent diplomatic proposal have operated within this same structural denial. Peace is defined as the permanent acceptance of ethnic cleansing, dressed in the language of compromise.
 

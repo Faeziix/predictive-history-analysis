@@ -13,7 +13,7 @@ source_episodes: ["The Ethnic Cleansing of Palestine — Ilan Pappe"]
 
 In late 1946, the Jewish Agency embarked on intensive negotiations with King Abdullah of Jordan. Abdullah was a scion of the Hashemite royal family from the Hejaz who had fought alongside the British in the First World War. Granted the Kingdom of Jordan by the Mandate system, he was unhappy with the deal -- Transjordan was little more than an arid desert princedom. He wished to expand into fertile, cultural, and populated Palestine.
 
-After the Second World War, Abdullah reached an agreement in principle with the Jewish Agency over how to divide post-Mandatory Palestine between them. Vague ideas became the basis for serious negotiations after UN Resolution 181 was adopted on November 29, 1947. Most leaders of the Jewish community were willing to give up the West Bank (today's West Bank), even though it included biblical Jewish sites like Hebron. The Jordanian quid pro quo was irresistible: Abdullah promised not to join any all-Arab military operations against the Jewish state.
+After the Second World War, Abdullah reached an agreement in principle with the Jewish Agency over how to divide post-Mandatory Palestine between them. Vague ideas became the basis for serious negotiations after UN Resolution 181 was adopted on November 29, 1947. Most leaders of the Jewish community — including [[david-ben-gurion]] — were willing to give up the West Bank (today's West Bank), even though it included biblical Jewish sites like Hebron. The Jordanian quid pro quo was irresistible: Abdullah promised not to join any all-Arab military operations against the Jewish state.
 
 ## What It Meant
 
@@ -31,11 +31,11 @@ Abdullah was then chosen as Supreme Commander of all Arab forces despite everyon
 
 When Arab armies entered Palestine on May 15, 1948, the Jordanian Arab Legion -- by far the best-trained and most professional Arab force -- largely honoured its side of the bargain. The Legion defended those parts of the West Bank that Abdullah claimed as his, but did not enter the areas the Zionist movement had designated for their Jewish state. Most senior Arab Legion officers were British. When high-ranking Jewish officer Shlomo Shamir met with British officers of the Legion, he told them bluntly: "We could take all of Palestine if we wanted to, but this is a political question."
 
-The Arab Legion actively refused to collaborate with the Arab Liberation Army (ALA) forces of Fawzi al-Qawuqji, and Jordanian soldiers willing to help were ordered by their commanders to refrain. Al-Qawuqji, who commanded roughly 2,000 volunteers, had himself sought a non-aggression pact with the Zionists as early as January 1948, and by end of March offered direct contact to the Consultancy.
+The Arab Legion actively refused to collaborate with the [[arab-armies-phony-war|Arab Liberation Army (ALA)]] forces of Fawzi al-Qawuqji, and Jordanian soldiers willing to help were ordered by their commanders to refrain. Al-Qawuqji, who commanded roughly 2,000 volunteers, had himself sought a non-aggression pact with the Zionists as early as January 1948, and by end of March offered direct contact to [[the-consultancy]].
 
 The Legion's most significant engagement was the battle for Jerusalem, where it successfully repelled Israeli attacks on the eastern neighbourhoods, especially Shaykh Jarrah. The Legion also defended the Latrun area so tenaciously that it became engraved in the collective memory of the Israeli armed forces as their biggest defeat in the war. But this fighting was for Abdullah's claimed territory, not for the defence of Palestinian villages.
 
-When Glubb Pasha, the British commander of the Legion, was instructed to withdraw from Lydd and Ramla, the populations of both cities -- approximately 70,000 people -- were left defenceless for the Israeli forces to expel on July 14, 1948. Glubb Pasha later lost his position and had to return to Britain for his decision to retreat.
+When Glubb Pasha, the British commander of the Legion, was instructed to withdraw from Lydd and Ramla, the populations of both cities -- approximately 70,000 people -- were left defenceless for the Israeli forces to [[urbicide-of-palestine|expel on July 14, 1948]]. Glubb Pasha later lost his position and had to return to Britain for his decision to retreat.
 
 ## The Wadi Ara Betrayal
 

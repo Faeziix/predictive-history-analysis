@@ -13,7 +13,7 @@ source_episodes: ["The Ethnic Cleansing of Palestine — Ilan Pappe"]
 
 Named after the biblical king of Tyre, Operation Hiram was launched in mid-October 1948 with an ambitious and expansionist goal: Israel's takeover of the upper Galilee and southern Lebanon. With intensive artillery and air force attacks, Jewish troops captured both in a matter of two weeks.
 
-The Israeli air force dropped about 10,000 leaflets calling upon villagers to surrender, although not promising any immunity from expulsion. None of the villages did, and almost as a whole, came out to confront the Israeli forces. For a brief period, Palestinian villages turned themselves into strongholds, standing up to the besieging Israeli troops with whatever meagre arms they had. A mixture of local youth and the remnants of the ALA were entrenched for a week or two before being overpowered. Four hundred ALA volunteers lost their lives in those days, quite often disobeying orders from their headquarters to leave.
+The Israeli air force dropped about 10,000 leaflets calling upon villagers to surrender, although not promising any immunity from expulsion. None of the villages did, and almost as a whole, came out to confront the Israeli forces. For a brief period, Palestinian villages turned themselves into strongholds, standing up to the besieging Israeli troops with whatever meagre arms they had. A mixture of local youth and the remnants of the [[arab-armies-phony-war|ALA]] were entrenched for a week or two before being overpowered. Four hundred ALA volunteers lost their lives in those days, quite often disobeying orders from their headquarters to leave.
 
 Most of the villages in the upper Galilee were seized in a single day at the end of October: Deir Hanna, Ilabun, Arraba, Iqrit, Farradiyya, Mi'ilya, Khirbat Irribin, Kfar Inan, Tarbikha, Tarshiha, Mayrun, Safsaf, Sa'sa, Jish, Fassuta, and Qaddita. The list included another ten villages.
 
@@ -23,7 +23,7 @@ The events that unfolded in Dawaymeh, between Beersheba and Hebron, are describe
 
 The soldiers entered from three flanks, leaving open the eastern flank with the aim of driving out 6,000 people in one hour. When this failed, the troops jumped out of their vehicles and started shooting indiscriminately, many of whom ran to the mosque or fled to a nearby holy cave. The mukhtar later counted 455 people missing, among them around 170 children and women. Jewish soldiers who took part reported babies whose skulls were cracked open, women raped or burned alive in houses, and men stabbed to death.
 
-The commander of Battalion 89 had received orders from Chief of Staff Yigael Yadin: "Your preparations should include psychological warfare and 'treatment' (*tipul*) of citizens as an integral part of the operation." The UN's Palestine Conciliation Commission convened a special session to investigate the massacre.
+The commander of Battalion 89 had received orders from Chief of Staff [[the-consultancy|Yigael Yadin]]: "Your preparations should include psychological warfare and 'treatment' (*tipul*) of citizens as an integral part of the operation." The UN's Palestine Conciliation Commission convened a special session to investigate the massacre.
 
 ## The Safsaf Massacre
 
@@ -33,7 +33,7 @@ When a mixed unit of Jewish and Druze soldiers entered the village of Safsaf on 
 
 Among the most emblematic stories of the "mopping-up" phase was that of the Maronite Christian village of Iqrit. An Israeli battalion occupied it on October 31, 1948. The people surrendered without a fight, expecting to be welcome in the new Jewish state. The commander promised them they would be able to return in two weeks. On November 6, they were evicted and transported by army trucks to Rama.
 
-Almost a year and a half later, the people of Iqrit took their case to the Israeli Supreme Court, which on July 31, 1951 declared the eviction illegal and ordered the army to allow them to resettle. To bypass the ruling, the IDF fabricated a formal expulsion order backdated to November 6, 1948. On Christmas Eve 1951, the Israeli army demolished all the houses in Iqrit, sparing only the church and the cemetery. Similar destruction was carried out on Kfar Bir'im and Ghabisiyya. Almost sixty years later, the struggle to return has still not ended.
+Almost a year and a half later, the people of Iqrit took their case to the Israeli Supreme Court, which on July 31, 1951 declared the eviction illegal and ordered the army to allow them to resettle. To bypass the ruling, the IDF — heir to the [[zionist-paramilitary-organizations]] — fabricated a formal expulsion order backdated to November 6, 1948. On Christmas Eve 1951, the Israeli army demolished all the houses in Iqrit, sparing only the church and the cemetery. Similar destruction was carried out on Kfar Bir'im and Ghabisiyya. Almost sixty years later, the struggle to return has still not ended.
 
 ## Mopping-Up Operations
 
@@ -41,11 +41,11 @@ In November and December 1948, cleansing activity continued in the form of "seco
 
 ## The Southern Front
 
-The last front was the southern Negev, which the Israelis reached in November 1948. The two southern coastal towns of Isdud and Majdal were taken and their populations expelled to the Gaza Strip. Several thousands who remained in Majdal were expelled in December 1949, shocking some left-wing Israelis as this was done during a "time of peace." December 1948 was devoted to cleansing the Negev of its Bedouin tribes. When they had finished, ninety per cent of the people who had lived for centuries in the most southern inhabited region of Palestine were gone.
+The last front was the southern Negev, which the Israelis reached in November 1948. The two southern coastal towns of Isdud and Majdal were taken and their populations expelled to the Gaza Strip. Several thousands who remained in Majdal were expelled in December 1949, shocking some left-wing Israelis as this was done during a "time of peace." December 1948 was devoted to [[negev-bedouin-expulsion|cleansing the Negev of its Bedouin tribes]]. When they had finished, ninety per cent of the people who had lived for centuries in the most southern inhabited region of Palestine were gone.
 
 ## A Mini Empire in the Making
 
-So successful was Israel during this final phase that dreams of a mini-empire re-emerged. Ben-Gurion took the discussion to a committee of five veterans of the Consultancy, who met at the army's new headquarters. On May 24, 1948, after meeting with his advisers, Ben-Gurion's diary entry revealed: "We will establish a Christian state in Lebanon, the southern border of which will be the Litani River. We will break Transjordan, bomb Amman and destroy its army, and then Syria falls, and if Egypt will still continue to fight -- we will bombard Port Said, Alexandria and Cairo."
+So successful was Israel during this final phase that dreams of a mini-empire re-emerged. [[david-ben-gurion|Ben-Gurion]] took the discussion to a committee of five veterans of [[the-consultancy]], who met at the army's new headquarters. On May 24, 1948, after meeting with his advisers, Ben-Gurion's diary entry revealed: "We will establish a Christian state in Lebanon, the southern border of which will be the Litani River. We will break Transjordan, bomb Amman and destroy its army, and then Syria falls, and if Egypt will still continue to fight -- we will bombard Port Said, Alexandria and Cairo."
 
 Plans to seize southern Lebanon resulted in thirteen villages being captured, mass executions at Hula (eighty villagers) and Saliha (more than 100 people), and Israeli forces occupying the area until April 1949.
 

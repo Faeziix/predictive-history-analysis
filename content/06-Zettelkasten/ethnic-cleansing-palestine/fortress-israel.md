@@ -17,7 +17,7 @@ This obsession manifests in policy at every level: immigration law designed to i
 
 ## The Continuity
 
-Pappe argues that the events of 1948, the 1967 occupation, the settlement enterprise, the separation wall, and the siege of Gaza are not separate conflicts but phases of a single ongoing project — the maximization of Jewish-controlled territory with the minimization of Palestinian presence. The methods have evolved:
+Pappe argues that the events of [[nakba-1948|1948]], the [[uss-liberty-incident|1967]] occupation, the settlement enterprise, the separation wall, and the siege of Gaza are not separate conflicts but phases of a single ongoing project — the maximization of Jewish-controlled territory with the minimization of Palestinian presence. The methods have evolved:
 
 - **1948**: Mass expulsion and village destruction
 - **1948-1966**: Military rule over remaining Palestinian citizens inside Israel
@@ -25,13 +25,13 @@ Pappe argues that the events of 1948, the 1967 occupation, the settlement enterp
 - **1970s-present**: Settlement expansion, land confiscation, house demolitions
 - **2000s-present**: The Segregation Wall, the Gaza blockade, and periodic military assaults
 
-Each phase serves the same core imperative that drove Plan Dalet: control the land, remove or contain the people.
+Each phase serves the same core imperative that drove [[plan-dalet]]: control the land, remove or contain the people.
 
 ## The Security Discourse
 
-The demographic obsession is consistently disguised as "security" policy. Every act of territorial expansion or population control is framed in the language of defense — settlements are "security buffers," the wall is a "security barrier," military operations are "self-defense." This discursive trick, perfected during the 1948 war itself (when Ben-Gurion publicly warned of a "second Holocaust" while privately celebrating military superiority), allows Israel to pursue ethnic engineering while presenting itself as a victim.
+The demographic obsession is consistently disguised as "security" policy. Every act of territorial expansion or population control is framed in the language of defense — settlements are "security buffers," the wall is a "security barrier," military operations are "self-defense." This discursive trick, perfected during the 1948 war itself (when [[david-ben-gurion|Ben-Gurion]] publicly warned of a "second Holocaust" while privately celebrating military superiority), allows Israel to pursue ethnic engineering while presenting itself as a victim.
 
-The remaining 150,000 Palestinians who survived the 1948 ethnic cleansing inside Israel were placed under military rule until 1966. The solution the Consultancy devised for them — concentrating them in designated neighborhoods, restricting their movement, and placing them under a military regime — became the template for the post-1967 occupation of the West Bank and Gaza.
+The remaining 150,000 Palestinians who survived the 1948 ethnic cleansing inside Israel were placed under [[occupation-regime-1948|military rule until 1966]]. The solution [[the-consultancy]] devised for them — concentrating them in designated neighborhoods, restricting their movement, and placing them under a military regime — became the template for the post-1967 occupation of the West Bank and Gaza.
 
 ## The Logical Endpoint
 

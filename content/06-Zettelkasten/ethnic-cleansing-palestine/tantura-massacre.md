@@ -7,7 +7,7 @@ source_episodes: ["The Ethnic Cleansing of Palestine — Ilan Pappe"]
 
 # The Tantura Massacre
 
-**Core idea:** The massacre at the coastal village of Tantura on May 22, 1948 -- where Alexandroni Brigade soldiers systematically executed between 85 and 230 Palestinian men on the beach using pre-prepared village file lists and hooded informers -- was both one of the worst atrocities of the Nakba and a case study in Israeli institutional suppression, as the student who uncovered the truth had his thesis disqualified and was sued for libel by the perpetrators.
+**Core idea:** The massacre at the coastal village of Tantura on May 22, 1948 -- where [[zionist-paramilitary-organizations|Alexandroni Brigade]] soldiers systematically executed between 85 and 230 Palestinian men on the beach using pre-prepared village file lists and hooded informers -- was both one of the worst atrocities of the Nakba and a case study in Israeli institutional suppression, as the student who uncovered the truth had his thesis disqualified and was sued for libel by the perpetrators.
 
 ## The Village
 
@@ -15,13 +15,13 @@ Tantura was an ancient Palestinian village on the Mediterranean coast, one of th
 
 ## The Attack
 
-A week later, on May 22, 1948, the village was attacked at night by the Alexandroni Brigade. The offensive came from all four flanks -- unusual, as the brigade typically left one side open for the population to flee. The lack of coordination meant the troops had fully encircled the village and consequently found themselves with a very large number of villagers on their hands.
+A week later, on May 22, 1948, the village was attacked at night by the [[zionist-paramilitary-organizations|Alexandroni Brigade]]. The offensive came from all four flanks -- unusual, as the brigade typically left one side open for the population to flee. The lack of coordination meant the troops had fully encircled the village and consequently found themselves with a very large number of villagers on their hands.
 
 Tantura's captured villagers were herded at gunpoint down to the beach. The Jewish troops separated the men from the women and children, and expelled the latter to nearby Furaydis. Meanwhile, the hundreds of men collected on the beach were ordered to sit down and await the arrival of an Israeli intelligence officer, Shimshon Mashvitz, who lived in the nearby settlement of Givat Ada.
 
 ## The Executions
 
-Mashvitz went along with a local collaborator, hooded as at Ayn al-Zaytun, and picked out individual men -- in the eyes of the Israeli army, "men" were all males between the ages of ten and fifty. They were taken in small groups to a spot further away and executed. The men were selected according to a pre-prepared list drawn from Tantura's [[village-files]], which included everybody who had participated in the 1936 Revolt, who had contacts with the Mufti, and anyone else who had "committed" one of the "crimes" that automatically condemned them.
+Mashvitz went along with a local collaborator, hooded as at Ayn al-Zaytun, and picked out individual men -- in the eyes of the Israeli army, "men" were all males between the ages of ten and fifty. They were taken in small groups to a spot further away and executed. The men were selected according to a pre-prepared list drawn from Tantura's [[village-files]], which included everybody who had participated in the [[1936-arab-revolt|1936 Revolt]], who had contacts with the Mufti, and anyone else who had "committed" one of the "crimes" that automatically condemned them.
 
 Before the selection and killing on the beach, the occupying unit had gone on a killing spree inside the houses and streets. The attack happened after the villagers had signaled their surrender by waving a white flag. One eyewitness, Abu Mashaykh, saw the execution of eighty-five young men taken in groups of ten to the cemetery and the nearby mosque. He estimated the total could have been 110. Fawzi Muhammad Tanj witnessed the killing of ninety people. Abu Jamil recalled 125 people being killed in summary executions and saw Shimshon Mashvitz walking among the people on the beach, carrying a whip, lashing out at them "just for the fun of it."
 

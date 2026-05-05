@@ -19,7 +19,7 @@ In practice, Britain tilted decisively toward the Zionist project. The Mandatory
 
 Britain facilitated massive Jewish immigration throughout the Mandate period. The Jewish population grew from roughly 5% at the start to about 33% by 1947. The Mandatory authorities granted concessions and infrastructure contracts to Zionist enterprises, supported Zionist capitalists, and deliberately hampered the emergence of an independent Palestinian business class. British policies imposed high taxes on the rural Palestinian population while the [[zionist-economic-colonization]] advanced under the Mandate's protective umbrella.
 
-The British also provided critical military training. Officers like Orde Wingate taught the Hagana aggressive combat tactics and punitive operations against Arab villages during the 1930s, transforming a settler militia into a capable fighting force that would execute the ethnic cleansing a decade later.
+The British also provided critical military training. Officers like Orde Wingate taught the [[zionist-paramilitary-organizations|Hagana]] aggressive combat tactics and punitive operations against Arab villages during the 1930s, transforming a settler militia into a capable fighting force that would execute the ethnic cleansing a decade later.
 
 ## Suppressing Resistance
 
@@ -29,9 +29,9 @@ Meanwhile, the Zionist forces emerged from the same period strengthened — trai
 
 ## The Withdrawal
 
-When Britain decided to leave in 1947, handing the problem to the United Nations, it left behind a stark asymmetry: a well-armed, well-organized Zionist movement of 600,000 people facing a leaderless, disarmed Palestinian population of 1.3 million. The British sometimes assisted directly in the ethnic cleansing by providing the Zionist leadership with ownership deeds and vital administrative data. In Haifa, British officers informed Jewish authorities that their forces would withdraw from buffer zones between communities, giving Zionist forces an open path to assault Palestinian neighborhoods.
+When Britain decided to leave in 1947, handing the problem to the United Nations, it left behind a stark asymmetry: a well-armed, well-organized Zionist movement of 600,000 people — organized into the [[zionist-paramilitary-organizations]] — facing a leaderless, disarmed Palestinian population of 1.3 million. The British sometimes assisted directly in the ethnic cleansing by providing the Zionist leadership with ownership deeds and vital administrative data that supplemented the [[village-files]]. In Haifa, British officers informed Jewish authorities that their forces would withdraw from buffer zones between communities, giving Zionist forces an open path to assault Palestinian neighborhoods.
 
-After Plan Dalet was adopted, the British announced they were no longer responsible for law and order, limiting their activities to protecting their own departing soldiers. The Mandatory power that had crushed Palestinian resistance and enabled Zionist state-building simply walked away, leaving the indigenous population to face the consequences alone.
+After [[plan-dalet]] was adopted, the British announced they were no longer responsible for law and order, limiting their activities to protecting their own departing soldiers. The Mandatory power that had crushed Palestinian resistance and enabled Zionist state-building simply walked away, leaving the indigenous population to face the consequences alone.
 
 ## Key Insight
 

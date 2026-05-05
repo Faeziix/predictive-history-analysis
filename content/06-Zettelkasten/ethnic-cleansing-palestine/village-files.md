@@ -27,13 +27,13 @@ By 1947, the files were updated with a final category: lists of **"wanted" perso
 
 ## How They Were Built
 
-The project began with a suggestion from Ben-Zion Luria, a Hebrew University historian, who proposed that the JNF conduct a detailed registry of all Arab villages. The cartographic department operated from a film laboratory hidden in an irrigation company as a front, eventually moving to the Red House in 1947.
+The project began with a suggestion from Ben-Zion Luria, a Hebrew University historian, who proposed that the JNF conduct a detailed registry of all Arab villages. The cartographic department operated from a film laboratory hidden in an irrigation company as a front, eventually moving to [[the-consultancy|the Red House]] in 1947.
 
 The best professional photographers were recruited. Aerial photographic surveys produced detailed maps — maps that are now all that remains of villages like Sindiyana and Sabbarin. A topographer from the Hebrew University mapped the villages while "Orientalists" — agents who learned Arabic and studied Palestinian customs — built networks of informants.
 
 At a spy-school called **Shefeya**, special units trained for reconnaissance missions. Young Jews walked around speaking Arabic, trying to emulate the behavior of rural Palestinians. One recruit recalled his first mission to the village of Umm al-Zinat in 1944: he exploited traditional Arab hospitality, was invited as a guest in the mukhtar's home, and gathered intelligence on the mosque's location, wealthy families, and who had been active in the 1936 revolt. In 1948, Umm al-Zinat was destroyed and all inhabitants expelled without provocation.
 
-Ezra Danin, recruited from his citrus grove business, injected new efficiency into the intelligence work after 1943. Files now included detailed descriptions of husbandry, cultivated land, the quality of each fruit grove, shop owners, artisans and their skills, and even descriptions of village mosques and the living rooms of dignitaries.
+[[the-consultancy|Ezra Danin]], recruited from his citrus grove business, injected new efficiency into the intelligence work after 1943. Files now included detailed descriptions of husbandry, cultivated land, the quality of each fruit grove, shop owners, artisans and their skills, and even descriptions of village mosques and the living rooms of dignitaries.
 
 ## Operational Use in 1948
 
@@ -41,7 +41,7 @@ When Jewish troops occupied a village, the procedure was systematic: men were li
 
 This is documented at multiple sites:
 
-- At **Tantura**, intelligence officer Shimshon Mashvitz arrived with the village file's list. Men were selected and taken in groups to be executed on the beach.
+- At **[[tantura-massacre|Tantura]]**, intelligence officer Shimshon Mashvitz arrived with the village file's list. Men were selected and taken in groups to be executed on the beach.
 - At **Ayn al-Zaytun**, a hooded informer identified men from a pre-prepared list. Those selected were taken away and shot. Thirty-seven teenagers were executed in the mosque storage room.
 - At **multiple villages in the Galilee**, seventeen men were identified from 1936 revolt participation lists and killed on the spot.
 

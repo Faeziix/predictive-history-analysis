@@ -63,6 +63,50 @@ The Obsidian vault lives at `content/`. Quartz serves it as a static site.
 - No comments in code; use expressive names
 - bun only, never npm
 
+## Workflows
+
+### Ingest (adding a new source)
+
+1. Read the source file from `04-Sources/`
+2. Discuss key takeaways with user
+3. Write evidence note in `02-Evidence/YYYY-MM-DD-slug.md` — link to claim(s) and source
+4. Update `02-Evidence/_evidence-index.md` — add row with claim links and verdict
+5. Update every relevant claim file in `01-Claims/` — update `status`, `confidence`, `last_checked`, add evidence link
+6. Update `01-Claims/_claims-registry.md` — reflect any status/confidence changes
+7. Scan all Zettelkasten pages touched by this evidence — update or create atomic notes as needed
+8. Append entry to `log.md`: `## [YYYY-MM-DD] ingest | Source Title`
+9. Update `index.md` — add new source row, evidence row, update claim status column
+
+One source may touch 5–15 files. Do not skip the log or claims updates.
+
+### Query (answering a research question)
+
+1. Read `index.md` to locate relevant pages
+2. Read those pages in full
+3. Synthesize answer with citations using `[[wikilinks]]`
+4. If the answer is non-trivial (comparison, analysis, new connection), file it as a new page:
+   - Analysis-type answer → `03-Analysis/YYYY-MM-DD-slug.md`
+   - Concept/connection → `06-Zettelkasten/slug.md`
+5. Update `_analysis-index.md` or relevant MOC
+6. Append entry to `log.md`: `## [YYYY-MM-DD] query | Question slug`
+7. Update `index.md` with the new page if filed
+
+Good answers compound in the wiki. Don't let them disappear into chat history.
+
+### Lint (wiki health check)
+
+Run periodically or when wiki feels stale. Check for:
+
+1. **Contradictions** — claims where two evidence notes give opposing verdicts; flag in claim file
+2. **Stale claims** — claims with `last_checked` > 30 days old relative to today
+3. **Orphan pages** — Zettelkasten notes with no inbound `[[wikilinks]]`; add links or delete
+4. **Missing pages** — concepts mentioned in evidence/analysis but lacking their own Zettelkasten entry
+5. **Status drift** — claim `status` in `_claims-registry.md` inconsistent with individual claim files
+6. **Missing cross-references** — evidence notes not linked from their claim files
+7. **Data gaps** — suggest new sources or questions to investigate
+
+Append entry to `log.md`: `## [YYYY-MM-DD] lint | Summary of issues found/fixed`
+
 ## Learnings & Corrections
 
 ## Current State

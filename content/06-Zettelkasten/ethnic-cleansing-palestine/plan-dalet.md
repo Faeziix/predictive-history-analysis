@@ -7,11 +7,11 @@ source_episodes: ["The Ethnic Cleansing of Palestine — Ilan Pappe"]
 
 # Plan Dalet
 
-**Core idea:** Plan Dalet (Plan D), finalized on March 10, 1948 at the Red House in Tel-Aviv, was the master operational blueprint for the ethnic cleansing of Palestine — a detailed military plan that explicitly ordered the systematic destruction of villages and expulsion of Palestinian populations, assigning specific brigades to specific regions with clear instructions and exact timetables.
+**Core idea:** Plan Dalet (Plan D), finalized on March 10, 1948 at [[the-consultancy|the Red House]] in Tel-Aviv, was the master operational blueprint for the ethnic cleansing of Palestine — a detailed military plan that explicitly ordered the systematic destruction of villages and expulsion of Palestinian populations, assigning specific brigades to specific regions with clear instructions and exact timetables.
 
 ## The Document
 
-Plan Dalet was the fourth and final version of plans the Zionist leadership had drawn up for the takeover of Palestine. Codenamed the "Yehoshua Plan" (after Yehoshua Globerman, a Hagana commander killed in December 1947), it contained direct references to both the geographical parameters of the future Jewish state — the 78% coveted by Ben-Gurion — and to the fate of the one million Palestinians living within that space.
+Plan Dalet was the fourth and final version of plans the Zionist leadership had drawn up for the takeover of Palestine. Codenamed the "Yehoshua Plan" (after Yehoshua Globerman, a Hagana commander killed in December 1947), it contained direct references to both the geographical parameters of the future Jewish state — the 78% coveted by [[david-ben-gurion|Ben-Gurion]] — and to the fate of the one million Palestinians living within that space.
 
 The plan's operational language was explicit:
 
@@ -31,9 +31,9 @@ What distinguished Plan Dalet was its finality and comprehensiveness. The previo
 
 The country was divided into zones corresponding to twelve newly reorganized Hagana brigades. Each brigade commander received a specific list of villages and neighborhoods to be occupied, destroyed, and their inhabitants expelled — with exact dates. Key assignments:
 
-- The **Alexandroni Brigade** would storm the coast, depopulating sixty-four villages between Tel-Aviv and Haifa
+- The **[[tantura-massacre|Alexandroni Brigade]]** would storm the coast, depopulating sixty-four villages between Tel-Aviv and Haifa
 - The **Golani Brigade** received instructions to cleanse the Eastern Galilee starting May 6, 1948
-- The **Palmach** units received orders for [[operation-nachshon]] on April 1, 1948
+- The **[[zionist-paramilitary-organizations|Palmach]]** units received orders for [[operation-nachshon]] on April 1, 1948
 - The **Carmeli Brigade** was assigned the northern areas of Haifa and the western Galilee
 - The **Harel Brigade** focused on Greater Jerusalem
 
