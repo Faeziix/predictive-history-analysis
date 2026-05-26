@@ -3,7 +3,7 @@ claim_id: CLAIM-011
 status: UNVERIFIED
 category: geopolitical
 source_episodes: ["Game Theory #16", "Game Theory #18"]
-last_checked: 2026-04-06
+last_checked: 2026-05-26
 confidence: 10
 ---
 
@@ -31,3 +31,4 @@ Professor Jiang envisions a post-war Middle East where the current GCC states no
 | Date | Status Change | Reasoning | Report |
 |------|--------------|-----------|--------|
 | 2026-04-03 | no change | Saudi refusal to normalize (99% public opposition) contradicts absorption thesis. GCC states maintaining independence and distancing from Israel over Gaza/Iran. | [[2026-04-03-full-claims-analysis]] |
+| 2026-05-26 | UNVERIFIED (confidence 10->10) | Abraham Accords expanded to Kazakhstan/Somaliland but GCC maintaining independence. Gulf states actively opposing Israeli maximalism. UAE left OPEC (internal GCC shift) but not toward Israel. No evidence of absorption. | [[2026-05-26-full-claims-analysis-cycle3]] |

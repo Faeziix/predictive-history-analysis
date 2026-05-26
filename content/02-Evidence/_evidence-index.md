@@ -32,3 +32,24 @@ All gathered evidence notes, organized by date.
 | [[2026-04-06-recession-risk-mounting]] | [[CLAIM-006-global-economy-collapse]], [[CLAIM-009-boom-bust-cycles]] | STRONGLY SUPPORTS CLAIM-006; SUPPORTS CLAIM-009 |
 | [[2026-04-06-gcc-attacked-by-iran]] | [[CLAIM-010-gcc-destruction-petrodollar]], [[CLAIM-006-global-economy-collapse]], [[CLAIM-011-israel-absorbs-gcc]] | STRONGLY SUPPORTS CLAIM-010; SUPPORTS CLAIM-006; CONTRADICTS CLAIM-011 |
 | [[2026-04-06-epstein-bondi-fired-uk-arrests]] | [[CLAIM-013-epstein-intel-networks]] | SIGNIFICANTLY STRENGTHENED |
+
+## May 26, 2026
+
+| Evidence | Related Claims | Verdict |
+|----------|---------------|---------|
+| [[2026-05-26-iran-ceasefire-deal-negotiations]] | [[CLAIM-001-us-iran-war]] | STRONGLY SUPPORTS |
+| [[2026-05-26-hormuz-mines-ships-trapped-scale]] | [[CLAIM-002-strait-of-hormuz]], [[CLAIM-006-global-economy-collapse]] | DEFINITIVELY SUPPORTED CLAIM-002; STRONGLY SUPPORTS CLAIM-006 |
+| [[2026-05-26-oil-stagflation-iea-may]] | [[CLAIM-006-global-economy-collapse]], [[CLAIM-009-boom-bust-cycles]] | STRONGLY SUPPORTS CLAIM-006; SUPPORTS CLAIM-009 |
+| [[2026-05-26-al-aqsa-mp-demolition-call-flag-march]] | [[CLAIM-005-al-aqsa-third-temple]] | SIGNIFICANTLY STRENGTHENED |
+| [[2026-05-26-automatic-draft-registration-december]] | [[CLAIM-003-national-draft-civil-war]] | PARTIALLY SUPPORTS |
+| [[2026-05-26-russia-ukraine-no-deal-europe-takes-over]] | [[CLAIM-004-russia-third-rome]] | CONTRADICTS |
+| [[2026-05-26-food-crisis-hormuz-agriculture-disruption]] | [[CLAIM-015-depopulation-resource-wars]], [[CLAIM-006-global-economy-collapse]] | STRONGLY SUPPORTS CLAIM-015; SUPPORTS CLAIM-006 |
+| [[2026-05-26-uae-leaves-opec-petrodollar-erosion]] | [[CLAIM-010-gcc-destruction-petrodollar]] | STRONGLY SUPPORTS |
+| [[2026-05-26-epstein-bondi-testifies-norway-charges]] | [[CLAIM-013-epstein-intel-networks]] | PARTIALLY SUPPORTS |
+| [[2026-05-26-ieepa-tariffs-struck-down-mixed-reshoring]] | [[CLAIM-008-trump-technate]], [[CLAIM-012-regional-mercantilism]] | CONTRADICTS CLAIM-008; MIXED for CLAIM-012 |
+| [[2026-05-26-us-iran-war-treasury-rationale-eschatology]] | [[CLAIM-001-us-iran-war]], [[CLAIM-002-strait-of-hormuz]], [[CLAIM-010-gcc-destruction-petrodollar]] | STRONGLY SUPPORTS all — treasury rationale + eschatological trigger |
+| [[2026-05-26-eschatological-alignment-four-powers]] | [[CLAIM-005-al-aqsa-third-temple]], [[CLAIM-007-pax-judaica]], [[CLAIM-021-eschatological-alignment-four-powers]] | SUPPORTS CLAIM-005, CLAIM-007; INTRODUCES CLAIM-021 |
+| [[2026-05-26-wars-as-monetary-destruction]] | [[CLAIM-006-global-economy-collapse]], [[CLAIM-009-boom-bust-cycles]], [[CLAIM-014-mic-siphon]], [[CLAIM-019-wars-monetary-destruction]] | SUPPORTS all; INTRODUCES CLAIM-019 |
+| [[2026-05-26-ai-god-replacing-money-technomarxism]] | [[CLAIM-008-trump-technate]], [[CLAIM-020-ai-god-replacing-money]] | STRONGLY SUPPORTS CLAIM-008; INTRODUCES CLAIM-020 |
+| [[2026-05-26-secret-societies-trump-putin-agents]] | [[CLAIM-013-epstein-intel-networks]], [[CLAIM-016-trump-third-term-continuity]] | SUPPORTS both |
+| [[2026-05-26-imperial-decline-elite-overproduction-turchin]] | [[CLAIM-003-national-draft-civil-war]], [[CLAIM-015-depopulation-resource-wars]] | MODERATELY SUPPORTS both |

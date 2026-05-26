@@ -19,29 +19,35 @@ Cross-references real-world events against Professor Jiang's geopolitical predic
 
 ---
 
-## Claims (15 tracked predictions)
+## Claims (21 tracked predictions)
 
 | File | Summary | Status | Confidence |
 |------|---------|--------|------------|
-| [[CLAIM-001-us-iran-war]] | US will lose its war against Iran | EVOLVING | 70% |
-| [[CLAIM-002-strait-of-hormuz]] | Iran chokes off the Strait of Hormuz | SUPPORTED | 90% |
-| [[CLAIM-003-national-draft-civil-war]] | US national draft triggers civil war | EVOLVING | 40% |
-| [[CLAIM-004-russia-third-rome]] | Russia wins Ukraine war, establishes Third Rome | UNVERIFIED | 20% |
-| [[CLAIM-005-al-aqsa-third-temple]] | Al-Aqsa Mosque destroyed to build Third Temple | EVOLVING | 55% |
-| [[CLAIM-006-global-economy-collapse]] | Global economy collapses via oil/fertilizer cascade | EVOLVING | 75% |
-| [[CLAIM-007-pax-judaica]] | Israel establishes Pax Judaica over the Middle East | EVOLVING | 35% |
-| [[CLAIM-008-trump-technate]] | Trump destroys US empire and rebuilds as Technate | EVOLVING | 50% |
-| [[CLAIM-009-boom-bust-cycles]] | Economic boom-bust cycles are deliberately engineered | PARTIALLY_SUPPORTED | 50% |
-| [[CLAIM-010-gcc-destruction-petrodollar]] | GCC states destroyed, petrodollar ends | EVOLVING | 55% |
+| [[CLAIM-001-us-iran-war]] | US will lose its war against Iran | EVOLVING | 85% |
+| [[CLAIM-002-strait-of-hormuz]] | Iran chokes off the Strait of Hormuz | SUPPORTED | 95% |
+| [[CLAIM-003-national-draft-civil-war]] | US national draft triggers civil war | EVOLVING | 55% |
+| [[CLAIM-004-russia-third-rome]] | Russia wins Ukraine war, establishes Third Rome | UNVERIFIED | 15% |
+| [[CLAIM-005-al-aqsa-third-temple]] | Al-Aqsa Mosque destroyed to build Third Temple | EVOLVING | 75% |
+| [[CLAIM-006-global-economy-collapse]] | Global economy collapses via oil/fertilizer cascade | EVOLVING | 85% |
+| [[CLAIM-007-pax-judaica]] | Israel establishes Pax Judaica over the Middle East | EVOLVING | 40% |
+| [[CLAIM-008-trump-technate]] | Trump destroys US empire and rebuilds as Technate | EVOLVING | 70% |
+| [[CLAIM-009-boom-bust-cycles]] | Economic boom-bust cycles are deliberately engineered | PARTIALLY_SUPPORTED | 65% |
+| [[CLAIM-010-gcc-destruction-petrodollar]] | GCC states destroyed, petrodollar ends | EVOLVING | 70% |
 | [[CLAIM-011-israel-absorbs-gcc]] | Israel absorbs the destroyed GCC states | UNVERIFIED | 10% |
 | [[CLAIM-012-regional-mercantilism]] | World reverts to regional mercantile blocs | PARTIALLY_SUPPORTED | 70% |
-| [[CLAIM-013-epstein-intel-networks]] | Epstein/intel agencies control elite networks | PARTIALLY_SUPPORTED | 60% |
-| [[CLAIM-014-mic-siphon]] | Military-industrial complex designed to siphon taxpayer money | SUPPORTED | 80% |
-| [[CLAIM-015-depopulation-resource-wars]] | Global depopulation through resource wars | EVOLVING | 40% |
+| [[CLAIM-013-epstein-intel-networks]] | Epstein/intel agencies control elite networks | PARTIALLY_SUPPORTED | 70% |
+| [[CLAIM-014-mic-siphon]] | Military-industrial complex designed to siphon taxpayer money | SUPPORTED | 88% |
+| [[CLAIM-015-depopulation-resource-wars]] | Global depopulation through resource wars | EVOLVING | 58% |
+| [[CLAIM-016-trump-third-term-continuity]] | Trump seeks 3rd term for Technate agenda continuity | UNVERIFIED | 45% |
+| [[CLAIM-017-us-china-grand-bargain-stablecoin]] | US-China grand bargain via stablecoin/Treasury deal | EVOLVING | 55% |
+| [[CLAIM-018-putin-strategy-destroy-usd]] | Putin's strategy to destroy USD as global reserve currency | PARTIALLY_SUPPORTED | 60% |
+| [[CLAIM-019-wars-monetary-destruction]] | Wars deliberately created to destroy excess printed money | UNVERIFIED | 45% |
+| [[CLAIM-020-ai-god-replacing-money]] | AI will replace money as the new "god" (techno-Marxism) | EVOLVING | 55% |
+| [[CLAIM-021-eschatological-alignment-four-powers]] | US/Israel/Iran/Russia share eschatological alignment and work toward same outcomes | UNVERIFIED | 30% |
 
 ---
 
-## Analysis Reports (5 synthesis reports)
+## Analysis Reports (9 synthesis reports)
 
 | File | Summary |
 |------|---------|
@@ -50,6 +56,9 @@ Cross-references real-world events against Professor Jiang's geopolitical predic
 | [[2026-04-06-full-claims-analysis-cycle2]] | Cycle 2: F-15 shot down, Hormuz selective reopening for BRICS, all GCC attacked, Bondi fired |
 | [[2026-04-09-zionism-influence-fact-check]] | Fact-check of "Forbidden History of Zionism" vs Jiang; verifies Lavon/USS Liberty/Clean Break; debunks Rothschild-Scofield link |
 | [[2026-04-16-iran-axis-of-resistance-counterfactual]] | Counterfactual: proxy network was least-bad option; Libya template; all off-ramps externally sabotaged |
+| [[2026-05-26-full-claims-analysis-cycle3]] | Cycle 3: Hormuz mines; oil $117/b stagflation; Al-Aqsa MP calls for demolition (CLAIM-005 55→70); IEEPA struck down; UAE leaves OPEC |
+| [[2026-05-26-cycle4-new-episodes-synthesis]] | Cycle 4 (GT#21–27): NDS document confirms Technate (CLAIM-008 45→60); 21st century warfare doctrine; hallucination framework; 3 new claims (CLAIM-016/017/018) |
+| [[2026-05-26-game-theory-28-framework-synthesis]] | GT#28 final review: unified framework — treasury rationale for Iran war; 4-power eschatological alignment; wars as money destruction; AI-god replacing money; Trump/Putin as agents; 3 new claims (019/020/021) |
 
 ---
 
@@ -84,9 +93,33 @@ Cross-references real-world events against Professor Jiang's geopolitical predic
 | [[2026-04-06-gcc-attacked-by-iran]] | All GCC states hit by Iranian strikes; strongly supports CLAIM-010; contradicts CLAIM-011 |
 | [[2026-04-06-epstein-bondi-fired-uk-arrests]] | AG Bondi fired after blocking Epstein probe; UK arrests proceeding; strengthens CLAIM-013 |
 
+### May 26, 2026 — News Evidence
+| File | Summary |
+|------|---------|
+| [[2026-05-26-iran-ceasefire-deal-negotiations]] | Ceasefire fragile; supports CLAIM-001 |
+| [[2026-05-26-hormuz-mines-ships-trapped-scale]] | 1,550+ ships trapped; definitively confirms CLAIM-002 |
+| [[2026-05-26-oil-stagflation-iea-may]] | Oil at $117/b; stagflation materializing; supports CLAIM-006/009 |
+| [[2026-05-26-al-aqsa-mp-demolition-call-flag-march]] | Knesset MP calls for demolition; Flag March; strengthens CLAIM-005 |
+| [[2026-05-26-automatic-draft-registration-december]] | Automatic draft registration effective December 2025; supports CLAIM-003 |
+| [[2026-05-26-russia-ukraine-no-deal-europe-takes-over]] | US-Russia talks failed; Europe takes lead; contradicts CLAIM-004 |
+| [[2026-05-26-food-crisis-hormuz-agriculture-disruption]] | 85M displaced; food cascade; supports CLAIM-015/006 |
+| [[2026-05-26-uae-leaves-opec-petrodollar-erosion]] | UAE exits OPEC; strongly supports CLAIM-010 |
+| [[2026-05-26-epstein-bondi-testifies-norway-charges]] | Bondi testifies May 29; Norwegian PM charged; partially supports CLAIM-013 |
+| [[2026-05-26-ieepa-tariffs-struck-down-mixed-reshoring]] | Supreme Court strikes down IEEPA tariffs; contradicts CLAIM-008 |
+
+### May 26, 2026 — Game Theory Evidence (Primary Source)
+| File | Summary |
+|------|---------|
+| [[2026-05-26-us-iran-war-treasury-rationale-eschatology]] | Definitive "why" for US-Iran war: treasury control + eschatological trigger; supports CLAIM-001/002/010 |
+| [[2026-05-26-eschatological-alignment-four-powers]] | All 4 powers share same eschatological framework; introduces CLAIM-021 |
+| [[2026-05-26-wars-as-monetary-destruction]] | Banks print money, wars destroy excess; introduces CLAIM-019 |
+| [[2026-05-26-ai-god-replacing-money-technomarxism]] | AI replacing money as new "god"; techno-Marxism; introduces CLAIM-020 |
+| [[2026-05-26-secret-societies-trump-putin-agents]] | Trump and Putin named as current eschatological agents; supports CLAIM-013/016 |
+| [[2026-05-26-imperial-decline-elite-overproduction-turchin]] | Turchin's elite overproduction applied to US; supports CLAIM-003/015 |
+
 ---
 
-## Sources (22 raw sources)
+## Sources (37 raw sources)
 
 ### April 3, 2026
 | File | Publisher | Credibility |
@@ -117,6 +150,30 @@ Cross-references real-world events against Professor Jiang's geopolitical predic
 | [[2026-04-06-al-aqsa-36-days-closed-wafa]] | WAFA | Medium |
 | [[2026-04-06-gcc-under-attack-carnegie]] | Carnegie Endowment | High |
 | [[2026-04-06-epstein-arrests-few-npr]] | NPR | High |
+
+### May 26, 2026 — News Sources
+| File | Publisher | Credibility |
+|------|-----------|-------------|
+| [[2026-05-26-iran-ceasefire-negotiations-cnbc-npr]] | CNBC / NPR | High |
+| [[2026-05-26-hormuz-crisis-scale-wikipedia]] | Wikipedia / CNN | Medium |
+| [[2026-05-26-oil-market-report-iea]] | IEA | High |
+| [[2026-05-26-al-aqsa-mass-raids-flag-march]] | Middle East Eye | Medium |
+| [[2026-05-26-us-draft-automatic-registration]] | CNN / CNBC / The Hill | High |
+| [[2026-05-26-russia-ukraine-us-talks-souring]] | Foreign Policy / Bloomberg | High |
+| [[2026-05-26-global-food-crisis-wfp-unhcr]] | UNHCR / WFP / FAO | High |
+| [[2026-05-26-uae-leaves-opec-petrodollar]] | Fortune / NPR | High |
+| [[2026-05-26-epstein-bondi-testimony-npr]] | NPR / Britannica | High |
+| [[2026-05-26-f35-battleship-trump-budget]] | Fortune / GAO | High |
+
+### May 26, 2026 — Game Theory Episodes (Primary Source)
+| File | Publisher | Credibility |
+|------|-----------|-------------|
+| [[2026-05-26-game-theory-21-world-war-trump]] | Professor Jiang (YouTube) | High |
+| [[2026-05-26-game-theory-22-twilight-nation-state]] | Professor Jiang (YouTube) | High |
+| [[2026-05-26-game-theory-25-trump-visits-china]] | Professor Jiang (YouTube) | High |
+| [[2026-05-26-game-theory-26-holy-empire-of-ai]] | Professor Jiang (YouTube) | High |
+| [[2026-05-26-game-theory-27-putin-enters-the-chat]] | Professor Jiang (YouTube) | High |
+| [[2026-05-26-game-theory-28-final-review-framework]] | Professor Jiang (YouTube) | High |
 
 ---
 
@@ -185,6 +242,14 @@ Cross-references real-world events against Professor Jiang's geopolitical predic
 | [[sabbatean-frankist-tradition]] | Antinomian Jewish movement; alleged elite network connections |
 | [[chabad-lubavitch]] | Hasidic movement with significant political access and influence |
 | [[rothschild-network]] | Historical Rothschild banking empire; contemporary relevance assessment |
+| [[21st-century-warfare]] | GT#22 doctrine: economic strangulation + ethnic tension + civilian infrastructure targeting |
+| [[color-revolution-playbook]] | Intelligence agency toolkit for regime change without direct military intervention |
+| [[holy-empire-of-ai]] | GT#26: Freemason AI eschatology; Oracle/CIA/Palantir/Stargate as Golem infrastructure |
+| [[stablecoin-financial-repression]] | Genius Act stablecoins as deliberate petrodollar replacement mechanism |
+| [[hallucination-framework]] | GT#25: global economy as shared US-China hallucination neither can afford to pop |
+| [[eschatology-as-geopolitics]] | GT#28: eschatology = geopolitics told allegorically; Levantine origin; 4-religion convergence |
+| [[wars-as-monetary-destruction]] | GT#28: banks print money → must destroy via wars/recessions; current wars = post-QE cleanup |
+| [[ai-god-vs-money-civil-war]] | GT#28: money-god (capitalism) vs. AI-god (techno-Marxism); Trump as transition agent |
 
 ### Eschatological Drivers
 | File | Summary |
@@ -276,4 +341,4 @@ Cross-references real-world events against Professor Jiang's geopolitical predic
 
 ---
 
-*Last updated: 2026-05-05 | 15 claims · 21 evidence notes · 5 analyses · 22 sources · ~110 Zettelkasten notes*
+*Last updated: 2026-05-26 | 18 claims · 21 evidence notes · 7 analyses · 37 sources · ~115 Zettelkasten notes*

@@ -25,6 +25,11 @@ Professor Jiang builds his analysis on a set of interlocking "laws" - structural
 - [[platos-cave-analogy]] - Most people see shadows of reality, not reality itself. Media, education, and institutions maintain the cave.
 - [[elite-overproduction]] - Too many elites competing for too few positions destabilizes societies.
 - [[law-of-eschatological-convergence]] - When multiple civilizations' end-times prophecies align with geopolitical incentives, the prophecies become self-fulfilling.
+- [[hallucination-framework]] - The global economy is a shared illusion both the US and China must maintain — collapse is mutually unaffordable.
+
+### 21st Century Warfare Doctrine (GT#22)
+- [[21st-century-warfare]] - Modern great-power war: economic strangulation + ethnic tension + civilian infrastructure targeting.
+- [[color-revolution-playbook]] - Intelligence agencies' covert tool for regime change; complement to economic strangulation.
 
 ## How These Connect
 

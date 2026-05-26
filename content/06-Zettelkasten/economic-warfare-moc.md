@@ -31,6 +31,15 @@ Professor Jiang argues that the global economy isn't a neutral playing field - i
 - [[technate]] - North American self-sufficient economy
 - [[deglobalization]] - The process of unwinding global supply chains
 
+### Digital Dollar Transition (GT#25/27)
+- [[stablecoin-financial-repression]] - Genius Act stablecoins as the petrodollar's replacement
+- [[hallucination-framework]] - Why neither US nor China can afford to let the shared illusion fail
+- [[CLAIM-017-us-china-grand-bargain-stablecoin]] - The grand bargain that bridges petrodollar to stablecoin era
+- [[CLAIM-018-putin-strategy-destroy-usd]] - Russia's financial counter-strategy
+
+### 21st Century Economic Warfare (GT#22)
+- [[21st-century-warfare]] - Economic strangulation as primary weapons doctrine (not military force)
+
 ## The Argument
 
 The sequence: [[petrodollar-system]] enables [[dollar-as-infinite-game-token]] enables [[engineered-boom-bust-cycles]] enables [[transnational-capital]] wealth consolidation. The [[strait-of-hormuz-chokepoint]] is the single point of failure. When it breaks, [[price-hierarchy]] cascades destroy the system, forcing [[deglobalization]] and [[CLAIM-012-regional-mercantilism|regional mercantilism]].

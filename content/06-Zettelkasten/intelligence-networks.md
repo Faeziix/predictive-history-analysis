@@ -2,7 +2,7 @@
 type: concept
 title: Intelligence Networks
 category: actor
-source_episodes: ["Game Theory #13", "Game Theory #14"]
+source_episodes: ["Game Theory #13", "Game Theory #14", "Game Theory #22", "Game Theory #26"]
 ---
 
 # Intelligence Networks
@@ -38,6 +38,14 @@ Jiang frames Epstein not as an isolated predator but as a node in a systematic c
 - Connected to Chabad networks ([[chabad-lubavitch]])
 - The released files are a weapon: used by Trump to destroy liberal elite authority ([[CLAIM-013-epstein-intel-networks]])
 
+## Color Revolution Doctrine (GT#22)
+
+GT#22 extends Jiang's intelligence network analysis to foreign-policy operations. The [[color-revolution-playbook]] is intelligence agencies' preferred tool for regime change: fund NGOs, cultivate ethnic grievances, trigger a flashpoint, install a compliant government. This confirms the network operates not just for elite compromise (Epstein) but for geopolitical transformation — consistent with Jiang's claim that agencies serve transnational capital rather than national governments.
+
+## The AI-Era Intelligence Fusion (GT#26)
+
+GT#26 identifies a new phase: intelligence networks merging with AI infrastructure. Oracle's CIA cloud contract is the clearest example — a private tech company *is* the intelligence data layer. Palantir's law enforcement and military AI platforms extend this: the surveillance state is outsourced to connected private companies. Peter Thiel (Palantir founder) is identified as the ideological linchpin connecting intelligence networks, Silicon Valley, and Brzezinski-influenced geopolitics. See [[holy-empire-of-ai]].
+
 ## Related
 - [[CLAIM-013-epstein-intel-networks]] - The tracked prediction
 - [[transnational-capital]] - Who the networks serve
@@ -47,3 +55,5 @@ Jiang frames Epstein not as an isolated predator but as a node in a systematic c
 - [[lavon-affair]] - 1954 false flag operation against US facilities
 - [[uss-liberty-incident]] - 1967 attack on US intelligence ship
 - [[maga-hijacking-pattern]] - Blackmail as political control mechanism
+- [[color-revolution-playbook]] - Foreign-policy tool of the same networks
+- [[holy-empire-of-ai]] - AI-era evolution of the intelligence fusion

@@ -2,7 +2,7 @@
 type: concept
 title: The Technate
 category: predicted-entity
-source_episodes: ["Game Theory #17", "Game Theory #18"]
+source_episodes: ["Game Theory #17", "Game Theory #18", "Game Theory #21", "Game Theory #22", "Game Theory #25", "Game Theory #26"]
 ---
 
 # The Technate
@@ -48,9 +48,35 @@ The tariffs aren't protectionist blunders - they're deliberate de-globalization.
 
 **The Technate isn't a prediction about what America hopes to become. It's a prediction about what America is forced to become when everything else collapses.** Whether Trump is a genius or an idiot almost doesn't matter - the structural outcome of imperial overextension, economic collapse, and resource reorientation points toward continental self-sufficiency regardless of who's steering.
 
+## Primary-Source Confirmation (GT#21)
+
+GT#21 quotes the actual January 2026 National Defense Strategy document. Its four stated strategic priorities map precisely onto the Technate thesis:
+
+1. **Western hemisphere primacy** = Technate fortress (Monroe Doctrine enforcement)
+2. **China containment** = Eastern boundary of the Technate
+3. **Defense industrial base expansion** = Productive-capacity Technate (not financial-extraction empire)
+4. **Burden sharing** = Allies fund their own defense while the US rebuilds domestically
+
+This is not Jiang inferring the Technate from Trump's behavior — the *strategy document itself* articulates Technate logic. See [[CLAIM-008-trump-technate]] confidence revision (45→60).
+
+## Energy Fortress (GT#22)
+
+GT#22 adds a critical clarification: "North America is immune to global oil scarcity." The Technate is not damaged by Hormuz closure — it *benefits* from it. North American energy self-sufficiency (shale, Alberta tar sands, Venezuelan heavy crude if annexed) means the Technate can export oil at crisis prices while competitors starve. The Iran war is not a mistake for the Technate thesis; it's the mechanism that makes the Technate competitively dominant.
+
+## Grand Bargain as Technate Expansion (GT#25)
+
+GT#25 reframes the US-China grand bargain as Technate expansion: by negotiating Chinese manufacturing presence in Venezuela and Latin America (within the Monroe Doctrine sphere), the US effectively draws Chinese industrial capacity into the Technate's resource extraction zone. The Technate doesn't need to manufacture — it captures manufacturing. See [[CLAIM-017-us-china-grand-bargain-stablecoin]].
+
+## AI Surveillance Infrastructure (GT#26)
+
+GT#26 identifies Operation Stargate + Palantir as the AI surveillance layer required to *manage* the Technate transition. Before the draft can be activated and domestic unrest suppressed, the surveillance state must be operational. [[holy-empire-of-ai]] is the Technate's control mechanism.
+
 ## Related
 - [[CLAIM-008-trump-technate]] - The tracked prediction
 - [[united-states-actor]] - The nation this replaces
 - [[christian-nationalism]] - The ideological basis
 - [[CLAIM-012-regional-mercantilism]] - The global pattern the Technate fits into
 - [[deglobalization]] - The process that enables it
+- [[holy-empire-of-ai]] - The AI surveillance state the Technate requires
+- [[CLAIM-017-us-china-grand-bargain-stablecoin]] - Grand bargain as Technate expansion
+- [[hallucination-framework]] - Why China accepts the grand bargain

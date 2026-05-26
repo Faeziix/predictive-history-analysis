@@ -2,7 +2,7 @@
 type: concept
 title: Petrodollar System
 category: mechanism
-source_episodes: ["Game Theory #7", "Game Theory #9"]
+source_episodes: ["Game Theory #7", "Game Theory #9", "Game Theory #25", "Game Theory #27"]
 ---
 
 # Petrodollar System
@@ -39,9 +39,20 @@ When the [[strait-of-hormuz-chokepoint]] closes and GCC infrastructure is destro
 
 This is [[CLAIM-010-gcc-destruction-petrodollar]] - the predicted end of the system.
 
+## The Stablecoin Successor (GT#25)
+
+GT#25 presents the Genius Act as the US response to petrodollar erosion: replace oil-denominated dollar demand with stablecoin-denominated dollar demand. Dollar-pegged stablecoins backed by Treasuries create the same structural necessity — to participate in global digital commerce, nations must hold Treasury-backed stablecoins. The [[dollar-as-infinite-game-token]] is reprogrammed, not retired. See [[stablecoin-financial-repression]].
+
+## The Putin Counter-Move (GT#27)
+
+GT#27 frames Russia's entire strategic posture as designed to collapse this system: by directing North Korea and Iran to stop purchasing US Treasuries, and by encouraging BRICS nations toward alternatives, Putin aims to drain the Treasury demand that underpins both the petrodollar and its stablecoin successor. The yen carry trade (Japan forced to raise rates → global Treasury selloff) is an additional lever. See [[CLAIM-018-putin-strategy-destroy-usd]].
+
 ## Related
 - [[dollar-as-infinite-game-token]] - What the petrodollar enables
 - [[gcc-states-actor]] - The nations running the system
 - [[strait-of-hormuz-chokepoint]] - The vulnerability
 - [[price-hierarchy]] - The structure it supports
 - [[CLAIM-010-gcc-destruction-petrodollar]] - The predicted collapse
+- [[stablecoin-financial-repression]] - The replacement mechanism
+- [[CLAIM-018-putin-strategy-destroy-usd]] - The counter-strategy
+- [[hallucination-framework]] - Why both US and China maintain the system
