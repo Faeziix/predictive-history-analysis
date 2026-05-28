@@ -141,3 +141,44 @@ Primary-source ingest. Professor Jiang's final exam review lecture transcribed a
 **Next ingest priorities**: Russia/Ukraine territorial control (CLAIM-004), US military recruitment data (CLAIM-003), GAO contractor reports (CLAIM-014), IMF boom-bust correlation data (CLAIM-009), UN OCHA humanitarian tracking (CLAIM-015).
 
 Added `log.md` (this file), rebuilt `index.md` as full content catalog, added Ingest/Query/Lint workflows to `CLAUDE.md`.
+
+---
+
+## [2026-05-28] ingest | Game Theory Final Examination Q&A (YouTube RE2UribEFIo)
+
+Primary-source ingest. Professor Jiang's final class Q&A — transcribed, fully mined, and cross-referenced. This is his "final exam" before leaving school to pursue global audience full-time. Most significant primary-source ingest since the original episodes.
+
+**Video processed:**
+- GT Final Exam (2026-05-28): https://www.youtube.com/watch?v=RE2UribEFIo — 2-hour Q&A answering Substack founding members and YouTube viewers
+
+**New files created:**
+- `04-Sources/2026-05-28-game-theory-final-exam.md`
+- `02-Evidence/2026-05-28-draft-confirmed-international.md`
+- `02-Evidence/2026-05-28-trump-third-term-direct-statement.md`
+- `02-Evidence/2026-05-28-iran-war-israel-last-standing.md`
+- `02-Evidence/2026-05-28-pax-judaica-vs-pax-silica.md`
+- `02-Evidence/2026-05-28-russia-post-putin-expansion.md`
+- `02-Evidence/2026-05-28-usd-collapse-basket-currencies.md`
+- `02-Evidence/2026-05-28-civil-war-ai-civilian-state-confirmed.md`
+- `03-Analysis/2026-05-28-final-exam-synthesis.md`
+- `06-Zettelkasten/russia-post-great-leader-expansion.md`
+- `06-Zettelkasten/draft-as-social-reorganization.md`
+- `06-Zettelkasten/pax-judaica-vs-pax-silica.md`
+- `06-Zettelkasten/usd-reserve-collapse-mechanism.md`
+- `01-Claims/CLAIM-022-putin-longevity.md`
+
+**Key findings:**
+- CLAIM-003 (Draft/Civil War): Strongest confirmation to date. Draft coming to Canada/Australia/Europe too. Civil war is "definitely happening, nothing can stop it." Draft reframed as social reorganization.
+- CLAIM-016 (Trump 3rd term): First explicit on-record statement "I predict Trump will get a third term." UNVERIFIED → EVOLVING.
+- CLAIM-001 (Iran war): Full reconfirmation. Iran doesn't target Israel (UAE is the real target). US ground invasion destroys both; Israel last standing.
+- CLAIM-007 (Pax Judaica): Defended against Pax Silica challenge. "Pax Judaica is in charge, not Paxilica."
+- CLAIM-008 (Technate): Trump is "stupid" and serving his friends, not playing 4D chess. But Technate outcome still likely.
+- NEW CLAIM-022: Putin will live another 20 years (biologically extraordinary prediction).
+
+**Falsifiability criteria (Jiang's own):** Trump dies, US midterms surprise, Democrats find revolutionary grassroots leader.
+
+**Meta-update:** Abandon "genius Trump" framing. Trump is a factional servant of oil/Silicon Valley/MIC. Empire decline forces force-based control regardless of individual actors.
+
+**Confidence revisions:** CLAIM-001 80→85; CLAIM-003 50→65; CLAIM-007 30→40; CLAIM-008 60→68; CLAIM-016 45→60
+
+**Updated zettels:** `japan-actor.md` (historical resilience pattern added), `russia-actor.md` (implicitly updated via new post-great-leader ZK note)

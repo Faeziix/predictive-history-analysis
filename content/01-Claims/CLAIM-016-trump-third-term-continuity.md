@@ -1,10 +1,10 @@
 ---
 claim_id: CLAIM-016
-status: UNVERIFIED
+status: EVOLVING
 category: geopolitical
-source_episodes: ["Game Theory #21"]
-last_checked: 2026-05-26
-confidence: 45
+source_episodes: ["Game Theory #21", "Game Theory Final Exam"]
+last_checked: 2026-05-28
+confidence: 60
 ---
 
 # Trump Third Term and Political Continuity of War Agenda
@@ -21,7 +21,8 @@ The claim is notable for how Jiang frames Democratic complicity: even if Democra
 
 ## Evidence For
 
-- No formal evidence yet. Claim is forward-looking (2028 election horizon).
+- [[2026-05-28-trump-third-term-direct-statement]] — Professor's most explicit on-record statement: "I predict Trump will get a third term." Uses Trump's death as the primary falsifiability test for his entire worldview.
+- No external verification yet. Claim is forward-looking (2028 election horizon).
 - Context: growing normalization of Trump challenging electoral norms (January 6, ongoing election fraud claims)
 - Democratic complicity in war vote (Congress war powers resolution engineered to fail) suggests bipartisan alignment, making peaceful transition less disruptive than Jiang implies
 - Historical precedent: FDR won four terms during WWII; wartime presidents have sought continuity before
@@ -46,3 +47,4 @@ The claim is notable for how Jiang frames Democratic complicity: even if Democra
 | Date | Status Change | Reasoning | Report |
 |------|--------------|-----------|--------|
 | 2026-05-26 | Created: UNVERIFIED | New claim introduced in GT#21 — forward-looking prediction with no near-term verifiable evidence; 35 confidence reflects structural plausibility but legal and political barriers | [[2026-05-26-cycle4-new-episodes-synthesis]] |
+| 2026-05-28 | UNVERIFIED -> EVOLVING (confidence 45->60) | Final Exam video: Professor explicitly states "I predict Trump will get a third term" — strongest on-record primary-source confirmation. Uses Trump's death as his number-one falsifiability criterion. Claim is now clearly central to his worldview, not peripheral. | [[2026-05-28-final-exam-synthesis]] |

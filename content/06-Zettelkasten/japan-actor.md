@@ -24,6 +24,18 @@ Japan's moral culture - emphasis on duty, honor, intergenerational obligation - 
 
 This is a rare instance where [[social-contract-vs-iron-and-blood|cultural cohesion]] works *positively* in the framework.
 
+## Historical Resilience Pattern (Final Exam update)
+
+Jiang reconfirmed and strengthened his optimism on Japan in the Final Exam, explicitly citing three historical examples of Japan's 20-30 year turnaround capacity:
+
+1. **12th-13th century**: Survived two Mongolian invasions that destroyed most civilizations they touched.
+2. **19th century (Meiji Restoration)**: When threatened by Western powers, Japan transformed from feudal society to industrial power in ~20-30 years.
+3. **Post-WWII**: After complete destruction by the US, dismantled the Zaibatsu monopoly system, re-industrialized, became the world's most advanced industrial economy in ~20-30 years.
+
+> "The Japanese have a history of resilience of making changes when their survival is threatened. That's why I think Japan will probably do it again. Whereas I've not seen an instance of China being resilient."
+
+This is Jiang's implicit counter-argument to the China-dominates-Asia narrative. When crisis forces adaptation, Japan changes — China doesn't.
+
 ## Related
 - [[price-hierarchy]] - Japan's knowledge economy tier
 - [[strait-of-hormuz-chokepoint]] - Existential vulnerability

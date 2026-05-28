@@ -53,3 +53,15 @@ All gathered evidence notes, organized by date.
 | [[2026-05-26-ai-god-replacing-money-technomarxism]] | [[CLAIM-008-trump-technate]], [[CLAIM-020-ai-god-replacing-money]] | STRONGLY SUPPORTS CLAIM-008; INTRODUCES CLAIM-020 |
 | [[2026-05-26-secret-societies-trump-putin-agents]] | [[CLAIM-013-epstein-intel-networks]], [[CLAIM-016-trump-third-term-continuity]] | SUPPORTS both |
 | [[2026-05-26-imperial-decline-elite-overproduction-turchin]] | [[CLAIM-003-national-draft-civil-war]], [[CLAIM-015-depopulation-resource-wars]] | MODERATELY SUPPORTS both |
+
+## May 28, 2026 — Final Exam Q&A (Primary Source)
+
+| Evidence | Related Claims | Verdict |
+|----------|---------------|---------|
+| [[2026-05-28-draft-confirmed-international]] | [[CLAIM-003-national-draft-civil-war]] | STRONGLY SUPPORTS — explicit confirmation, international scope, purpose reframed |
+| [[2026-05-28-trump-third-term-direct-statement]] | [[CLAIM-016-trump-third-term-continuity]] | STRONGLY SUPPORTS — first explicit on-record prediction statement |
+| [[2026-05-28-iran-war-israel-last-standing]] | [[CLAIM-001-us-iran-war]], [[CLAIM-007-pax-judaica]], [[CLAIM-011-israel-absorbs-gcc]] | STRONGLY SUPPORTS CLAIM-001; SUPPORTS CLAIM-007, CLAIM-011 |
+| [[2026-05-28-pax-judaica-vs-pax-silica]] | [[CLAIM-007-pax-judaica]] | SUPPORTS — theoretical clarification: nation-state backing required for any trade network |
+| [[2026-05-28-russia-post-putin-expansion]] | [[CLAIM-004-russia-third-rome]], [[CLAIM-022-putin-longevity]] | NEW DIMENSION for CLAIM-004; INTRODUCES CLAIM-022 |
+| [[2026-05-28-usd-collapse-basket-currencies]] | [[CLAIM-006-global-economy-collapse]], [[CLAIM-009-boom-bust-cycles]], [[CLAIM-010-gcc-destruction-petrodollar]] | SUPPORTS all; nuances collapse = basket transition not apocalypse |
+| [[2026-05-28-civil-war-ai-civilian-state-confirmed]] | [[CLAIM-003-national-draft-civil-war]], [[CLAIM-008-trump-technate]], [[CLAIM-020-ai-god-replacing-money]] | STRONGLY SUPPORTS CLAIM-003; CONFIRMS civil war; SUPPORTS CLAIM-008, CLAIM-020 |
