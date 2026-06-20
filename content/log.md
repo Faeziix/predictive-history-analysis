@@ -182,3 +182,37 @@ Primary-source ingest. Professor Jiang's final class Q&A — transcribed, fully 
 **Confidence revisions:** CLAIM-001 80→85; CLAIM-003 50→65; CLAIM-007 30→40; CLAIM-008 60→68; CLAIM-016 45→60
 
 **Updated zettels:** `japan-actor.md` (historical resilience pattern added), `russia-actor.md` (implicitly updated via new post-great-leader ZK note)
+
+---
+
+## [2026-06-21] ingest | Manufactured-consent cluster — Iran casualty narrative
+
+New Zettelkasten cluster `06-Zettelkasten/manufactured-consent-iran/` built from an external article fact-checked via deep research. Covers the information-warfare dimension of the 2025–2026 Iran protests and the US–Iran war.
+
+**New cluster (MOC + 7 concept notes):** `manufactured-consent-iran-moc.md`, `2025-2026-iran-protests.md`, `iran-internet-blackout.md`, `casualty-inflation-narrative.md`, `hrana-methodology.md`, `israeli-influence-operation-iran.md`, `reza-pahlavi-position-shift.md`, `manufacturing-consent-mechanism.md`
+
+**New evidence:** EVD-037 (Iran International 36,500 self-sourced claim), EVD-038 (HRANA ~7,000 verified toll), EVD-039 (Haaretz/Citizen Lab Israeli influence op)
+
+**New sources:** SRC-039 (NPR/AP), SRC-040 (Haaretz/TheMarker + Citizen Lab), SRC-041 (Iran International, credibility medium — self-sourced)
+
+**Key findings:** HRANA name-by-name verified ~7,000 vs Iran International self-sourced, by-its-own-admission-unverifiable ~36,500 (~5× gap) under the ~8 Jan internet blackout. Forensically-documented (Haaretz + Citizen Lab, Oct 2025) Israeli AI influence operation promoting Pahlavi, synced with strikes, predates the protests. Pahlavi four-stage position shift on intervention. Mechanism parallels the unverified Oct 7 "40 beheaded babies" claim.
+
+**Discipline:** Notes keep "unverified/inflated" distinct from "deliberate lie," and "documented influence op" distinct from "planted the 36,500 figure."
+
+**Wired into:** CLAIM-001 (evidence + history row, no confidence change — info-warfare bears on consent, not military outcome), CLAIM-008 (influence-op evidence). Linked from `predictive-history-moc.md`.
+
+---
+
+## [2026-06-21] ingest | Citizen Lab PRISONBREAK primary report + MEE — Pahlavi influence-op cluster upgrade
+
+Fetched the **primary forensic source** behind the Pahlavi influence-operation story and upgraded the existing manufactured-consent cluster from secondary (Iran Post mirror) to primary-source grounding.
+
+**New sources:** SRC-042 ([[2025-10-02-citizenlab-prisonbreak-report]] — Citizen Lab Report No. 189 "PRISONBREAK", high credibility), SRC-043 ([[2025-mee-pahlavi-pro-israel-stooge]] — Middle East Eye opinion, medium).
+
+**Upgraded:** [[israeli-influence-operation-iran]] zettel now carries the real forensic indicators (50+ inauthentic X accounts; created 2023, ~99.5% posting after Jan 2025; UTC+3 posting fingerprint; ≥75% desktop-client; shared "b…" email domain; Evin Prison deepfake posted mid-strike; Gideon Saar repost; fake BBC Persian; Baraye-musicians deepfake). EVD-039 evidence note + Haaretz source note re-cited to the primary report.
+
+**Indexed:** Added the whole manufactured-consent cluster (SRC-039 through SRC-043) to `_source-index.md` — these had never been in the source index.
+
+**Wired into:** CLAIM-008 (`last_checked` → 2026-06-21; new analysis-history row, no confidence change — info-warfare bears on consent-manufacturing, not the Technate economic outcome).
+
+**Discipline held:** PRISONBREAK proves a Pahlavi-promoting AI amplification op; it does NOT establish the 36,500 casualty figure was planted by it. Attribution is Citizen Lab's "high likelihood" assessment, not conclusive ("cannot conclusively attribute this to a particular entity").

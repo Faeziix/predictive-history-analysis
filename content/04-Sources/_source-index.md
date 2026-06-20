@@ -59,3 +59,13 @@ All news sources collected and assessed.
 | [[2026-05-26-game-theory-26-holy-empire-of-ai]] | Professor Jiang (YouTube) | High | [[CLAIM-008-trump-technate]], [[CLAIM-013-epstein-intel-networks]], [[CLAIM-014-mic-siphon]] |
 | [[2026-05-26-game-theory-27-putin-enters-the-chat]] | Professor Jiang (YouTube) | High | [[CLAIM-001-us-iran-war]], [[CLAIM-004-russia-third-rome]], [[CLAIM-006-global-economy-collapse]], [[CLAIM-010-gcc-destruction-petrodollar]], [[CLAIM-012-regional-mercantilism]], [[CLAIM-015-depopulation-resource-wars]], [[CLAIM-018-putin-strategy-destroy-usd]] |
 | [[2026-05-28-game-theory-final-exam]] | Professor Jiang (YouTube) | High | [[CLAIM-001-us-iran-war]], [[CLAIM-003-national-draft-civil-war]], [[CLAIM-004-russia-third-rome]], [[CLAIM-007-pax-judaica]], [[CLAIM-008-trump-technate]], [[CLAIM-016-trump-third-term-continuity]], [[CLAIM-022-putin-longevity]] |
+
+## Manufactured-Consent / Iran Influence-Op Cluster
+
+| Source | Publisher | Credibility | Related Claims |
+|--------|-----------|-------------|----------------|
+| [[2026-01-27-iran-protest-death-toll-npr-ap]] | NPR / AP | High | [[CLAIM-001-us-iran-war]] |
+| [[2025-10-03-israeli-influence-operation-haaretz]] | Haaretz / TheMarker + Citizen Lab | High | [[CLAIM-008-trump-technate]] |
+| [[2025-10-02-citizenlab-prisonbreak-report]] | Citizen Lab (U. Toronto) — Report No. 189 | High | [[CLAIM-008-trump-technate]] |
+| [[2026-01-25-iran-deadliest-massacre-iran-international]] | Iran International | Medium (self-sourced) | [[CLAIM-001-us-iran-war]] |
+| [[2025-mee-pahlavi-pro-israel-stooge]] | Middle East Eye (opinion) | Medium | [[CLAIM-008-trump-technate]] |

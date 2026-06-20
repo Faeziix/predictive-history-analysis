@@ -31,6 +31,9 @@ How financial systems, energy, and trade are weaponized. The dollar, oil, boom-b
 ### [[ethnic-cleansing-palestine-moc|Ethnic Cleansing of Palestine]]
 The 1948 Nakba as foundational context for the current conflict cascade. Plan Dalet, Deir Yassin, Arab armies' phony war, Jordan-Zionist collusion, and the structural role of Nakba denial in preventing peace. Required reading for understanding CLAIM-005, CLAIM-007, and CLAIM-011.
 
+### [[manufactured-consent-iran-moc|Manufacturing Consent — The Iran Casualty Narrative]]
+The information-warfare layer of the 2025–2026 Iran protests and the US–Iran war: HRANA's verified ~7,000 vs Iran International's self-sourced, unverifiable ~36,500 under an internet blackout, a forensically-documented Israeli AI influence operation promoting Pahlavi, and the October 7 "beheaded babies" precedent. Context for how consent for CLAIM-001 and CLAIM-008 was built.
+
 ## How This Vault Works
 
 This is a [[zettelkasten]] - a network of atomic notes connected by meaning, not hierarchy. Each note covers one idea. Follow the `[[links]]` to explore naturally. The graph view in Obsidian reveals how ideas cluster and connect.
