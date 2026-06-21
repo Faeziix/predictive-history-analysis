@@ -3,8 +3,8 @@ claim_id: CLAIM-001
 status: EVOLVING
 category: military
 source_episodes: ["Game Theory #9", "Game Theory #10", "Game Theory #11", "Game Theory #21", "Game Theory #22", "Game Theory #25", "Game Theory #27", "Game Theory #28", "Game Theory Final Exam"]
-last_checked: 2026-05-28
-confidence: 85
+last_checked: 2026-06-18
+confidence: 78
 ---
 
 # US Will Lose War Against Iran
@@ -25,6 +25,7 @@ Professor Jiang argues through the Law of Escalation and Law of Asymmetry that p
 - [[2026-05-28-iran-war-israel-last-standing]] — Professor explicitly reconfirms: US ground invasion destroys both USA and Iran; Israel emerges as "the only person left standing." Clarifies Iran does not want to destroy Israel — Iran's targets are the UAE and the US presence.
 
 ## Evidence Against
+- [[2026-06-18-us-iran-negotiated-deescalation]]
 
 ## Related Claims
 - [[CLAIM-002-strait-of-hormuz]]
@@ -40,3 +41,4 @@ Professor Jiang argues through the Law of Escalation and Law of Asymmetry that p
 | 2026-05-26 | EVOLVING (confidence 70->75) | April 8 ceasefire "on life support." US struck Iran as recently as May 25. Trump claimed deal "largely negotiated" then retracted next day. Iran negotiating from position of demands (Hormuz + Lebanon coverage). 3 months of US/Israeli air assault has not broken Iran. | [[2026-05-26-full-claims-analysis-cycle3]] |
 | 2026-05-26 | EVOLVING (confidence 75->80) | GT#21/22/25/27 provide full strategic framework: US-Iran war is the first 21st century war; US will shift from shock-and-awe to economic strangulation + infrastructure destruction; Iran prepared 20 years with decentralized, hidden military; America need not "win" — only needs Iran in permanent chaos to block Russia's North-South corridor (GT#27). GT#22 introduces the only effective counter: eschatological fanaticism. Multiple episodes reinforce the "years, possibly 10-20" duration claim. | [[2026-05-26-cycle4-new-episodes-synthesis]] |
 | 2026-05-28 | EVOLVING (confidence 80->85) | Final Exam: full reconfirmation. Iran has no interest in destroying Israel (no strategic purpose). Iran's primary target is the UAE. US ground troops destroy both USA and Iran → Israel last standing → SENTCOM transfers. Claim mechanics explicitly defended against student challenge. No status change warranted — still evolving with active war. | [[2026-05-28-final-exam-synthesis]] |
+| 2026-06-18 | EVOLVING (confidence 85→78) | Cycle 5 news grounding: war ending by negotiated MOU (signing June 19, Geneva) after ~4mo air/naval war — NO US ground invasion. Core predicted mechanism (failed ground invasion → decisive loss) avoided; outcome trends to negotiated stalemate. | [[2026-06-18-cycle5-news-grounding]] |

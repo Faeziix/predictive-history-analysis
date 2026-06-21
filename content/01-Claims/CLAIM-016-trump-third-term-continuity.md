@@ -3,7 +3,7 @@ claim_id: CLAIM-016
 status: EVOLVING
 category: geopolitical
 source_episodes: ["Game Theory #21", "Game Theory Final Exam"]
-last_checked: 2026-05-28
+last_checked: 2026-06-18
 confidence: 60
 ---
 
@@ -48,3 +48,4 @@ The claim is notable for how Jiang frames Democratic complicity: even if Democra
 |------|--------------|-----------|--------|
 | 2026-05-26 | Created: UNVERIFIED | New claim introduced in GT#21 — forward-looking prediction with no near-term verifiable evidence; 35 confidence reflects structural plausibility but legal and political barriers | [[2026-05-26-cycle4-new-episodes-synthesis]] |
 | 2026-05-28 | UNVERIFIED -> EVOLVING (confidence 45->60) | Final Exam video: Professor explicitly states "I predict Trump will get a third term" — strongest on-record primary-source confirmation. Uses Trump's death as his number-one falsifiability criterion. Claim is now clearly central to his worldview, not peripheral. | [[2026-05-28-final-exam-synthesis]] |
+| 2026-06-18 | EVOLVING (no change, 60) | Rhetoric persists (Trump 'there are methods'; floated canceling 2026 midterms) but 22nd Amendment firm, no structural path, state bill to block 2028 ballot. Signaling without institutional progress. | [[2026-06-18-cycle5-news-grounding]] |

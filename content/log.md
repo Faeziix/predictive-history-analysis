@@ -182,3 +182,18 @@ Primary-source ingest. Professor Jiang's final class Q&A — transcribed, fully 
 **Confidence revisions:** CLAIM-001 80→85; CLAIM-003 50→65; CLAIM-007 30→40; CLAIM-008 60→68; CLAIM-016 45→60
 
 **Updated zettels:** `japan-actor.md` (historical resilience pattern added), `russia-actor.md` (implicitly updated via new post-great-leader ZK note)
+
+
+## [2026-06-18] analyze-news | Cycle 5 — News Grounding (June 2026 de-escalation)
+
+**Pipeline:** `/analyze-news` (no args) — broad sweep across all 22 claims via live web search. NOTE: `infsh`/Tavily credentials expired (401 unauthorized); fell back to built-in web search. Run `infsh login` to restore Tavily search/extract for richer extraction next cycle.
+
+**Headline:** First *de-escalation* cycle. US–Iran MOU (signing June 19, Geneva) + Strait of Hormuz reopening (tankers exiting June 17, US blockade lifted) contradict the "permanent/decisive collapse" framings. Brent back to ~$81.
+
+**New sources:** SRC-039–046 (8). **New evidence:** EVD-037–044 (8). **New analysis:** ANL-010 → [[2026-06-18-cycle5-news-grounding]].
+
+**Confidence revisions:** CLAIM-001 85→78; CLAIM-002 95→72 (**SUPPORTED→EVOLVING**); CLAIM-003 65→63; CLAIM-005 75→72 (drift reconciled); CLAIM-006 85→86; CLAIM-007 40→43; CLAIM-008 68→66; CLAIM-010 70→75; CLAIM-012 70→72; CLAIM-013 70→71; CLAIM-014 88→89; CLAIM-015 55→58; CLAIM-017 55→62. Held: 004, 009, 011, 016, 018, 019, 020, 021, 022.
+
+**Cross-claim pattern:** Jiang's *mechanisms* (oil→fertilizer→famine; GCC fracture; MIC waste; stablecoin debt absorption) keep validating; his *maximalist endpoints* (permanent Hormuz closure, decisive US ground defeat, GCC destruction, Al-Aqsa destroyed, global depopulation) do not. Score mechanism and endpoint separately.
+
+**Registry/index sync:** Regenerated `_claims-registry.md` from claim frontmatter (fixed prior status/confidence drift); added missing CLAIM-022 row to `index.md` and corrected tracked count 21→22.

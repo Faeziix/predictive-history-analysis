@@ -1,10 +1,10 @@
 ---
 claim_id: CLAIM-002
-status: SUPPORTED
+status: EVOLVING
 category: military
 source_episodes: ["Game Theory #9", "Game Theory #11", "Game Theory #21", "Game Theory #22"]
-last_checked: 2026-05-26
-confidence: 95
+last_checked: 2026-06-18
+confidence: 72
 ---
 
 # Iran Will Permanently Choke Off Strait of Hormuz
@@ -23,6 +23,7 @@ This is a key strategic lever in the predicted US-Iran conflict. The Strait of H
 - [[2026-05-26-hormuz-mines-ships-trapped-scale]]
 
 ## Evidence Against
+- [[2026-06-18-hormuz-reopening-permanence-contradicted]]
 
 ## Related Claims
 - [[CLAIM-001-us-iran-war]]
@@ -37,3 +38,4 @@ This is a key strategic lever in the predicted US-Iran conflict. The Strait of H
 | 2026-04-06 | SUPPORTED (confidence 85->90) | Iran selectively reopening Hormuz for BRICS nations while blocking Western shipping. More strategically powerful than total blockade — using the Strait as a geopolitical sorting tool. | [[2026-04-06-full-claims-analysis-cycle2]] |
 | 2026-05-26 | SUPPORTED (confidence 90->95) | Sea mines deployed; 22,500 mariners trapped on 1,550+ vessels as of May 8; US launched then paused Operation Project Freedom; US counter-blockaded Iranian ports April 13. Blockade scale exceeds Jiang's prediction — definitively confirmed. | [[2026-05-26-full-claims-analysis-cycle3]] |
 | 2026-05-26 | SUPPORTED (confidence 95 maintained) | GT#21/22 add strategic context: Hormuz closure is America's deliberate design (they don't lose from it — benefits US energy exports); GT#22 details Kharg Island + coastal seizure as US 21st century warfare vector. Primary source reinforcement, no change to confidence. | [[2026-05-26-cycle4-new-episodes-synthesis]] |
+| 2026-06-18 | SUPPORTED→EVOLVING (confidence 95→72) | Closure proven real (>90% traffic collapse, 191 vessels in April) but 'permanently' contradicted: Geneva MOU reopens Hormuz, US blockade lifted, tankers exiting June 17 after ~3.5-month closure. | [[2026-06-18-cycle5-news-grounding]] |

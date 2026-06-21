@@ -3,8 +3,8 @@ claim_id: CLAIM-010
 status: EVOLVING
 category: economic
 source_episodes: ["Game Theory #9", "Game Theory #16", "Game Theory #18", "Game Theory #25", "Game Theory #27"]
-last_checked: 2026-05-26
-confidence: 70
+last_checked: 2026-06-18
+confidence: 75
 ---
 
 # Destruction of GCC Economies and End of Petrodollar
@@ -21,6 +21,7 @@ Professor Jiang argues the GCC states (Saudi Arabia, UAE, Qatar, etc.) are vulne
 - [[2026-04-06-gcc-attacked-by-iran]]
 - [[2026-04-06-hormuz-selective-reopening]]
 - [[2026-05-26-uae-leaves-opec-petrodollar-erosion]]
+- [[2026-06-18-gcc-collapse-petrodollar-strain]]
 
 ## Evidence Against
 
@@ -37,3 +38,4 @@ Professor Jiang argues the GCC states (Saudi Arabia, UAE, Qatar, etc.) are vulne
 | 2026-04-06 | EVOLVING (confidence 40->55) | Iran attacked ALL GCC states. Saudi refinery disabled, Kuwait airport hit, Dubai hotels damaged, Qatar helium supply cut. Hormuz selective reopening for BRICS nations creates de facto non-dollar oil market. | [[2026-04-06-full-claims-analysis-cycle2]] |
 | 2026-05-26 | EVOLVING (confidence 55->65) | UAE left OPEC after negotiating Treasury swap lines. Saudi 50-year petrodollar deal lapsed in 2024 without renewal. Dollar share declining. GCC currencies still pegged but structurally fragmenting. UAE-OPEC split is historically significant. | [[2026-05-26-full-claims-analysis-cycle3]] |
 | 2026-05-26 | EVOLVING (confidence 65->70) | GT#25 presents the Genius Act stablecoin strategy as deliberate petrodollar replacement — moving from oil-backed USD to Treasury-backed digital stablecoins. This is not GCC destruction but petrodollar system redesign from the US side. GT#27 adds Putin's active Treasury-purchase cessation via North Korea + Iran proxies as an accelerant to petrodollar erosion from the other direction. Both vectors now active simultaneously. | [[2026-05-26-cycle4-new-episodes-synthesis]] |
+| 2026-06-18 | EVOLVING (confidence 70→75) | 'Systemic collapse of GCC economic model'; Brent past $120 peak; QatarEnergy force majeure; steep production cuts; UAE quit OPEC ('end of Gulf solidarity'). Petrodollar strained, not ended; SWF buffers intact. | [[2026-06-18-cycle5-news-grounding]] |

@@ -3,7 +3,7 @@ claim_id: CLAIM-022
 status: UNVERIFIED
 category: geopolitical
 source_episodes: ["Game Theory Final Exam"]
-last_checked: 2026-05-28
+last_checked: 2026-06-18
 confidence: 35
 ---
 
@@ -32,3 +32,4 @@ Stated in the Final Exam Q&A when a student asked what happens if Putin ceases t
 | Date | Status Change | Reasoning | Report |
 |------|--------------|-----------|--------|
 | 2026-05-28 | Created: UNVERIFIED | New prediction from Final Exam. No external evidence. The 20-year figure is biologically extraordinary (Putin would be ~94). Low confidence reflects that Jiang's intuition here is plausible but extraordinary claims require extraordinary evidence. | [[2026-05-28-final-exam-synthesis]] |
+| 2026-06-18 | UNVERIFIED (no change, 35) | Putin (73) remains in power; recurring health rumors unsubstantiated; no designated successor. 20-year horizon inherently unfalsifiable on this timescale. | [[2026-06-18-cycle5-news-grounding]] |

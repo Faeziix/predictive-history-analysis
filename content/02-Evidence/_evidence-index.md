@@ -65,3 +65,17 @@ All gathered evidence notes, organized by date.
 | [[2026-05-28-russia-post-putin-expansion]] | [[CLAIM-004-russia-third-rome]], [[CLAIM-022-putin-longevity]] | NEW DIMENSION for CLAIM-004; INTRODUCES CLAIM-022 |
 | [[2026-05-28-usd-collapse-basket-currencies]] | [[CLAIM-006-global-economy-collapse]], [[CLAIM-009-boom-bust-cycles]], [[CLAIM-010-gcc-destruction-petrodollar]] | SUPPORTS all; nuances collapse = basket transition not apocalypse |
 | [[2026-05-28-civil-war-ai-civilian-state-confirmed]] | [[CLAIM-003-national-draft-civil-war]], [[CLAIM-008-trump-technate]], [[CLAIM-020-ai-god-replacing-money]] | STRONGLY SUPPORTS CLAIM-003; CONFIRMS civil war; SUPPORTS CLAIM-008, CLAIM-020 |
+
+
+## June 18, 2026
+
+| Evidence | Related Claims | Verdict |
+|----------|---------------|---------|
+| [[2026-06-18-us-iran-negotiated-deescalation]] | [[CLAIM-001-us-iran-war]], [[CLAIM-006-global-economy-collapse]], [[CLAIM-010-gcc-destruction-petrodollar]] | CONTRADICTS CLAIM-001 mechanism (no ground invasion; negotiated MOU); supports bounded outcome |
+| [[2026-06-18-hormuz-reopening-permanence-contradicted]] | [[CLAIM-002-strait-of-hormuz]], [[CLAIM-006-global-economy-collapse]] | MIXED — supports closure capability, CONTRADICTS "permanently" |
+| [[2026-06-18-food-crisis-validates-cascade]] | [[CLAIM-006-global-economy-collapse]], [[CLAIM-015-depopulation-resource-wars]] | STRONGLY SUPPORTS CLAIM-006 mechanism; PARTIALLY SUPPORTS CLAIM-015 |
+| [[2026-06-18-gcc-collapse-petrodollar-strain]] | [[CLAIM-010-gcc-destruction-petrodollar]], [[CLAIM-012-regional-mercantilism]], [[CLAIM-011-israel-absorbs-gcc]] | SUPPORTS CLAIM-010, CLAIM-012; CONTRADICTS CLAIM-011 |
+| [[2026-06-18-al-aqsa-temple-movement-momentum]] | [[CLAIM-005-al-aqsa-third-temple]], [[CLAIM-007-pax-judaica]] | PARTIALLY SUPPORTS trend (not endpoint) |
+| [[2026-06-18-epstein-files-intel-contested]] | [[CLAIM-013-epstein-intel-networks]] | WEAKLY SUPPORTS — documented but contested |
+| [[2026-06-18-f35-waste-reinforced]] | [[CLAIM-014-mic-siphon]] | SUPPORTS factual core (not intent) |
+| [[2026-06-18-trump-china-stablecoin-bargain]] | [[CLAIM-017-us-china-grand-bargain-stablecoin]], [[CLAIM-018-putin-strategy-destroy-usd]] | PARTIALLY SUPPORTS CLAIM-017; MIXED for CLAIM-018 |

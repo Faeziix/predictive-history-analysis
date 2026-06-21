@@ -3,8 +3,8 @@ claim_id: CLAIM-017
 status: EVOLVING
 category: economic
 source_episodes: ["Game Theory #25"]
-last_checked: 2026-05-26
-confidence: 55
+last_checked: 2026-06-18
+confidence: 62
 ---
 
 # US-China Grand Bargain via Financial Repression and Taiwan Reunification
@@ -31,6 +31,7 @@ The Genius Act and Clarity Act are real US legislation proposed in 2025-2026 tha
 - US-China tariff pause (May 2026) and "90-day truce" reported by multiple sources — consistent with grand bargain phase
 - Xi invited Iranian FM Araghchi — but only met with counterpart (not Xi directly) — consistent with GT#25 claim that China cares about US relationship above Iran
 - [[SRC-035]] (Game Theory #25) — primary source
+- [[2026-06-18-trump-china-stablecoin-bargain]]
 
 ## Evidence Against
 
@@ -53,3 +54,4 @@ The Genius Act and Clarity Act are real US legislation proposed in 2025-2026 tha
 | Date | Status Change | Reasoning | Report |
 |------|--------------|-----------|--------|
 | 2026-05-26 | Created: EVOLVING | Trump China visit occurred as predicted; delegation composition matches "mega deal" structure; real legislation (Genius Act) matches stablecoin claim; Taiwan reunification remains speculative; 55 confidence reflects live developments | [[2026-05-26-cycle4-new-episodes-synthesis]] |
+| 2026-06-18 | EVOLVING (confidence 55→62) | Two of three components materialize: Trump–Xi state visit (May 13–15, first in ~9 yrs; Taiwan as 'negotiating chip') + GENIUS Act stablecoin→Treasury demand (USD stablecoins 98% of market). Comprehensive bargain unsealed (no substantive agreements). | [[2026-06-18-cycle5-news-grounding]] |

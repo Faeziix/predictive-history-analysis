@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "4577959b059889ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "7be203316ae9bd47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da43c8cb9ca07cfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06-Zettelkasten/color-revolution-playbook.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "color-revolution-playbook"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d1a90ab51fd89ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c0e72eb6269ae2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3874cd8f53d20c07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8347f334084538a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "clean break",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c83e313091740285",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 299.5
+  },
+  "right": {
+    "id": "4ecd3b0c025564cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e3a38e121a44a47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f85dd1fa0afa534",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06-Zettelkasten/eschatology-as-geopolitics.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for eschatology-as-geopolitics"
+            }
+          },
+          {
+            "id": "380b27c67898f549",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06-Zettelkasten/clean-break-memo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from clean-break-memo"
+            }
+          },
+          {
+            "id": "4d565fa2a685de44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3cce4a3a13dece7c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "52a5a5f4fb1df9e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06-Zettelkasten/clean-break-memo.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of clean-break-memo"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 355.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "da43c8cb9ca07cfc",
+  "lastOpenFiles": [
+    "06-Zettelkasten/transnational-capital.md",
+    "06-Zettelkasten/ethnic-cleansing-palestine/nakba-1948.md",
+    "06-Zettelkasten/ethnic-cleansing-palestine/zionist-economic-colonization.md",
+    "01-Claims/CLAIM-022-putin-longevity.md",
+    "02-Evidence/2026-05-28-trump-third-term-direct-statement.md",
+    "02-Evidence/2026-05-28-iran-war-israel-last-standing.md",
+    "02-Evidence/2026-05-28-pax-judaica-vs-pax-silica.md",
+    "02-Evidence/2026-05-28-russia-post-putin-expansion.md",
+    "02-Evidence/2026-05-28-usd-collapse-basket-currencies.md",
+    "02-Evidence/2026-05-28-civil-war-ai-civilian-state-confirmed.md",
+    "03-Analysis/2026-05-28-final-exam-synthesis.md",
+    "04-Sources/2026-05-28-game-theory-final-exam.md",
+    "04-Sources/2026-05-26-game-theory-28-final-review-framework.md",
+    "05-NotebookLM/notebook-registry.md",
+    "06-Zettelkasten/pax-judaica-vs-pax-silica.md",
+    "06-Zettelkasten/draft-as-social-reorganization.md",
+    "06-Zettelkasten/usd-reserve-collapse-mechanism.md",
+    "06-Zettelkasten/japan-actor.md",
+    "06-Zettelkasten/eschatology-as-geopolitics.md",
+    "06-Zettelkasten/wars-as-monetary-destruction.md",
+    "06-Zettelkasten/ai-god-vs-money-civil-war.md",
+    "06-Zettelkasten/theoretical-frameworks-moc.md",
+    "03-Analysis/2026-05-26-game-theory-28-framework-synthesis.md",
+    "03-Analysis/_analysis-index.md",
+    "01-Claims/CLAIM-001-us-iran-war.md",
+    "02-Evidence/2026-05-26-russia-ukraine-no-deal-europe-takes-over.md",
+    "01-Claims/sedNmelKx",
+    "01-Claims/CLAIM-008-trump-technate.md.tmp.17734.74cc31c467ba",
+    "01-Claims/CLAIM-001-us-iran-war.md.tmp.17734.458629fbf80a",
+    "index.md.tmp.17734.0747b09de4b3",
+    "index.md.tmp.17734.ba5a3f3d6ffb",
+    "index.md.tmp.17734.5eec96d463d5",
+    "index.md.tmp.17734.11511b82f64a",
+    "index.md.tmp.17734.5d2a553d4f71",
+    "log.md.tmp.17734.5a2702fb68b9",
+    "03-Analysis/_analysis-index.md.tmp.17734.a6d4de5c676a"
+  ]
+}

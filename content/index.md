@@ -19,31 +19,32 @@ Cross-references real-world events against Professor Jiang's geopolitical predic
 
 ---
 
-## Claims (21 tracked predictions)
+## Claims (22 tracked predictions)
 
 | File | Summary | Status | Confidence |
 |------|---------|--------|------------|
-| [[CLAIM-001-us-iran-war]] | US will lose its war against Iran | EVOLVING | 85% |
-| [[CLAIM-002-strait-of-hormuz]] | Iran chokes off the Strait of Hormuz | SUPPORTED | 95% |
-| [[CLAIM-003-national-draft-civil-war]] | US national draft triggers civil war | EVOLVING | 55% |
+| [[CLAIM-001-us-iran-war]] | US will lose its war against Iran | EVOLVING | 78% |
+| [[CLAIM-002-strait-of-hormuz]] | Iran chokes off the Strait of Hormuz | EVOLVING | 72% |
+| [[CLAIM-003-national-draft-civil-war]] | US national draft triggers civil war | EVOLVING | 63% |
 | [[CLAIM-004-russia-third-rome]] | Russia wins Ukraine war, establishes Third Rome | UNVERIFIED | 15% |
-| [[CLAIM-005-al-aqsa-third-temple]] | Al-Aqsa Mosque destroyed to build Third Temple | EVOLVING | 75% |
-| [[CLAIM-006-global-economy-collapse]] | Global economy collapses via oil/fertilizer cascade | EVOLVING | 85% |
-| [[CLAIM-007-pax-judaica]] | Israel establishes Pax Judaica over the Middle East | EVOLVING | 40% |
-| [[CLAIM-008-trump-technate]] | Trump destroys US empire and rebuilds as Technate | EVOLVING | 70% |
+| [[CLAIM-005-al-aqsa-third-temple]] | Al-Aqsa Mosque destroyed to build Third Temple | EVOLVING | 72% |
+| [[CLAIM-006-global-economy-collapse]] | Global economy collapses via oil/fertilizer cascade | EVOLVING | 86% |
+| [[CLAIM-007-pax-judaica]] | Israel establishes Pax Judaica over the Middle East | EVOLVING | 43% |
+| [[CLAIM-008-trump-technate]] | Trump destroys US empire and rebuilds as Technate | EVOLVING | 66% |
 | [[CLAIM-009-boom-bust-cycles]] | Economic boom-bust cycles are deliberately engineered | PARTIALLY_SUPPORTED | 65% |
-| [[CLAIM-010-gcc-destruction-petrodollar]] | GCC states destroyed, petrodollar ends | EVOLVING | 70% |
+| [[CLAIM-010-gcc-destruction-petrodollar]] | GCC states destroyed, petrodollar ends | EVOLVING | 75% |
 | [[CLAIM-011-israel-absorbs-gcc]] | Israel absorbs the destroyed GCC states | UNVERIFIED | 10% |
-| [[CLAIM-012-regional-mercantilism]] | World reverts to regional mercantile blocs | PARTIALLY_SUPPORTED | 70% |
-| [[CLAIM-013-epstein-intel-networks]] | Epstein/intel agencies control elite networks | PARTIALLY_SUPPORTED | 70% |
-| [[CLAIM-014-mic-siphon]] | Military-industrial complex designed to siphon taxpayer money | SUPPORTED | 88% |
+| [[CLAIM-012-regional-mercantilism]] | World reverts to regional mercantile blocs | PARTIALLY_SUPPORTED | 72% |
+| [[CLAIM-013-epstein-intel-networks]] | Epstein/intel agencies control elite networks | PARTIALLY_SUPPORTED | 71% |
+| [[CLAIM-014-mic-siphon]] | Military-industrial complex designed to siphon taxpayer money | SUPPORTED | 89% |
 | [[CLAIM-015-depopulation-resource-wars]] | Global depopulation through resource wars | EVOLVING | 58% |
-| [[CLAIM-016-trump-third-term-continuity]] | Trump seeks 3rd term for Technate agenda continuity | UNVERIFIED | 45% |
-| [[CLAIM-017-us-china-grand-bargain-stablecoin]] | US-China grand bargain via stablecoin/Treasury deal | EVOLVING | 55% |
+| [[CLAIM-016-trump-third-term-continuity]] | Trump seeks 3rd term for Technate agenda continuity | EVOLVING | 60% |
+| [[CLAIM-017-us-china-grand-bargain-stablecoin]] | US-China grand bargain via stablecoin/Treasury deal | EVOLVING | 62% |
 | [[CLAIM-018-putin-strategy-destroy-usd]] | Putin's strategy to destroy USD as global reserve currency | PARTIALLY_SUPPORTED | 60% |
 | [[CLAIM-019-wars-monetary-destruction]] | Wars deliberately created to destroy excess printed money | UNVERIFIED | 45% |
 | [[CLAIM-020-ai-god-replacing-money]] | AI will replace money as the new "god" (techno-Marxism) | EVOLVING | 55% |
 | [[CLAIM-021-eschatological-alignment-four-powers]] | US/Israel/Iran/Russia share eschatological alignment and work toward same outcomes | UNVERIFIED | 30% |
+| [[CLAIM-022-putin-longevity]] | Putin remains in power for ~20 more years (succession in 2040s) | UNVERIFIED | 35% |
 
 ---
 

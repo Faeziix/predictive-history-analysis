@@ -59,3 +59,17 @@ All news sources collected and assessed.
 | [[2026-05-26-game-theory-26-holy-empire-of-ai]] | Professor Jiang (YouTube) | High | [[CLAIM-008-trump-technate]], [[CLAIM-013-epstein-intel-networks]], [[CLAIM-014-mic-siphon]] |
 | [[2026-05-26-game-theory-27-putin-enters-the-chat]] | Professor Jiang (YouTube) | High | [[CLAIM-001-us-iran-war]], [[CLAIM-004-russia-third-rome]], [[CLAIM-006-global-economy-collapse]], [[CLAIM-010-gcc-destruction-petrodollar]], [[CLAIM-012-regional-mercantilism]], [[CLAIM-015-depopulation-resource-wars]], [[CLAIM-018-putin-strategy-destroy-usd]] |
 | [[2026-05-28-game-theory-final-exam]] | Professor Jiang (YouTube) | High | [[CLAIM-001-us-iran-war]], [[CLAIM-003-national-draft-civil-war]], [[CLAIM-004-russia-third-rome]], [[CLAIM-007-pax-judaica]], [[CLAIM-008-trump-technate]], [[CLAIM-016-trump-third-term-continuity]], [[CLAIM-022-putin-longevity]] |
+
+
+## June 18, 2026
+
+| Source | Publisher | Credibility | Related Claims |
+|--------|-----------|-------------|----------------|
+| [[2026-06-18-us-iran-mou-ceasefire-geneva]] | Wikipedia/CNN/Britannica/HoC | High | [[CLAIM-001-us-iran-war]], [[CLAIM-006-global-economy-collapse]], [[CLAIM-010-gcc-destruction-petrodollar]] |
+| [[2026-06-18-hormuz-reopening-tankers-exit]] | CNBC/Al Jazeera/UANI | High | [[CLAIM-002-strait-of-hormuz]], [[CLAIM-006-global-economy-collapse]] |
+| [[2026-06-18-global-food-crisis-fertilizer]] | FAO/UN/WEF/NPR | High | [[CLAIM-006-global-economy-collapse]], [[CLAIM-015-depopulation-resource-wars]] |
+| [[2026-06-18-gcc-systemic-collapse-petrodollar]] | SPF/Al Jazeera/Clingendael | High | [[CLAIM-010-gcc-destruction-petrodollar]], [[CLAIM-011-israel-absorbs-gcc]], [[CLAIM-012-regional-mercantilism]] |
+| [[2026-06-18-al-aqsa-temple-mount]] | Middle East Eye/Haaretz/+972 | Medium | [[CLAIM-005-al-aqsa-third-temple]], [[CLAIM-007-pax-judaica]] |
+| [[2026-06-18-epstein-files-mossad-contested]] | Times of Israel/Al Jazeera/The Week | Medium | [[CLAIM-013-epstein-intel-networks]] |
+| [[2026-06-18-f35-readiness-cost-overrun]] | Responsible Statecraft/GAO/Defense News | High | [[CLAIM-014-mic-siphon]] |
+| [[2026-06-18-trump-china-visit-stablecoin]] | WaPo/CNN/CSIS/CFR | High | [[CLAIM-017-us-china-grand-bargain-stablecoin]], [[CLAIM-018-putin-strategy-destroy-usd]] |

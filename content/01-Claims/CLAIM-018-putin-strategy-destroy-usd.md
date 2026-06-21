@@ -3,7 +3,7 @@ claim_id: CLAIM-018
 status: PARTIALLY_SUPPORTED
 category: geopolitical
 source_episodes: ["Game Theory #27"]
-last_checked: 2026-05-26
+last_checked: 2026-06-18
 confidence: 60
 ---
 
@@ -31,6 +31,7 @@ Russia-China relations are presented as structurally asymmetric: China prefers U
 - BRICS currency discussions (alternative settlement mechanisms) — consistent with USD demand reduction strategy
 - Iran being US target specifically because it's Russia's North-South corridor pivot — explains strategic logic of Iran war
 - [[SRC-037]] (Game Theory #27) — primary source
+- [[2026-06-18-trump-china-stablecoin-bargain]]
 
 ## Evidence Against
 
@@ -55,3 +56,4 @@ Russia-China relations are presented as structurally asymmetric: China prefers U
 | Date | Status Change | Reasoning | Report |
 |------|--------------|-----------|--------|
 | 2026-05-26 | Created: PARTIALLY_SUPPORTED | Multiple components are documented facts (Russia-DPRK pact, troops, AfD surge, China respecting sanctions); strategic intent is inference but well-evidenced; 60 confidence reflects strong circumstantial support with gap in confirmed Russian strategic intent | [[2026-05-26-cycle4-new-episodes-synthesis]] |
+| 2026-06-18 | PARTIALLY_SUPPORTED (no change, 60) | Dedollarization pressure real (China/Japan cutting Treasury purchases) but US stablecoin strategy actively defends dollar reserve status (USD stablecoins dominate). Live contest, not one-sided destruction. | [[2026-06-18-cycle5-news-grounding]] |
