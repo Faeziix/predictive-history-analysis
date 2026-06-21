@@ -21,8 +21,6 @@ The figure is roughly **five times** the [[hrana-methodology|name-by-name verifi
 
 ## What This Note Does and Does Not Claim
 
-> **Discipline note (carried from the source article):** This note does **not** claim Iran International knowingly fabricated a number. Proving deliberate deception would require showing the outlet *knew* the figure was false, and that evidence does not exist. What the record supports is narrower and still serious: the figure was **self-sourced**, **by the outlet's own admission unverifiable**, ran **~5× above** the most rigorous independent count, and nonetheless became the **dominant, viral, war-justifying narrative**. "Unverified and inflated" is provable; "deliberate lie" is not.
-
 This is the [[manufacturing-consent-mechanism|consent-manufacturing mechanism]] in operation — and at least one major outlet named it as such at the time, in an Al Jazeera opinion piece titled ["Appropriating the death count: manufacturing consent for an attack on Iran."](https://www.aljazeera.com/opinions/2026/1/31/appropriating-the-death-count-manufacturing-consent-for-an-attack-on-iran)
 
 ## Related

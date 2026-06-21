@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-Zettelkasten/color-revolution-playbook.md",
+                "file": "06-Zettelkasten/manufactured-consent-iran/manufacturing-consent-mechanism.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "color-revolution-playbook"
+              "title": "manufacturing-consent-mechanism"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "clean break",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 200
   },
   "right": {
     "id": "4ecd3b0c025564cf",
@@ -185,6 +185,16 @@
   },
   "active": "da43c8cb9ca07cfc",
   "lastOpenFiles": [
+    "06-Zettelkasten/manufactured-consent-iran/israeli-influence-operation-iran.md",
+    "06-Zettelkasten/predictive-history-moc.md",
+    "04-Sources/2025-10-02-citizenlab-prisonbreak-report.md",
+    "log.md",
+    "06-Zettelkasten/manufactured-consent-iran/reza-pahlavi-position-shift.md",
+    "06-Zettelkasten/manufactured-consent-iran/2025-2026-iran-protests.md",
+    "06-Zettelkasten/manufactured-consent-iran/casualty-inflation-narrative.md",
+    "06-Zettelkasten/manufactured-consent-iran/manufacturing-consent-mechanism.md",
+    "06-Zettelkasten/manufactured-consent-iran/manufactured-consent-iran-moc.md",
+    "06-Zettelkasten/color-revolution-playbook.md",
     "06-Zettelkasten/transnational-capital.md",
     "06-Zettelkasten/ethnic-cleansing-palestine/nakba-1948.md",
     "06-Zettelkasten/ethnic-cleansing-palestine/zionist-economic-colonization.md",
@@ -201,16 +211,6 @@
     "05-NotebookLM/notebook-registry.md",
     "06-Zettelkasten/pax-judaica-vs-pax-silica.md",
     "06-Zettelkasten/draft-as-social-reorganization.md",
-    "06-Zettelkasten/usd-reserve-collapse-mechanism.md",
-    "06-Zettelkasten/japan-actor.md",
-    "06-Zettelkasten/eschatology-as-geopolitics.md",
-    "06-Zettelkasten/wars-as-monetary-destruction.md",
-    "06-Zettelkasten/ai-god-vs-money-civil-war.md",
-    "06-Zettelkasten/theoretical-frameworks-moc.md",
-    "03-Analysis/2026-05-26-game-theory-28-framework-synthesis.md",
-    "03-Analysis/_analysis-index.md",
-    "01-Claims/CLAIM-001-us-iran-war.md",
-    "02-Evidence/2026-05-26-russia-ukraine-no-deal-europe-takes-over.md",
     "01-Claims/sedNmelKx",
     "01-Claims/CLAIM-008-trump-technate.md.tmp.17734.74cc31c467ba",
     "01-Claims/CLAIM-001-us-iran-war.md.tmp.17734.458629fbf80a",

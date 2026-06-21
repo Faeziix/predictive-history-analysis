@@ -7,7 +7,7 @@ source_episodes: ["Game Theory #8", "Game Theory #22"]
 
 # The Manufacturing-Consent Mechanism
 
-**Core idea:** A recurring information-warfare pattern — an unverifiable atrocity claim is released into an environment where it cannot be checked, framed as one of the great atrocities of the age, amplified until it produces national trauma, and that trauma is then converted into consent for a war or military action that was already strategically desired.
+**Core idea:** A recurring information-warfare pattern — an unverifiable atrocity claim is released into an environment where it cannot be checked, framed as one of the great atrocities of the age, amplified and portrait as truth which causes massive outrage and a national trauma, and that trauma is then converted into consent for a war or military action that was already strategically desired.
 
 ## The Pattern
 
