@@ -17,6 +17,11 @@ Cross-references real-world events against Professor Jiang's geopolitical predic
 
 > Key atomic notes: [[plan-dalet]] · [[deir-yassin-massacre]] · [[tantura-massacre]] · [[arab-armies-phony-war]] · [[jordan-zionist-collusion]] · [[nakba-denial-peace-process]] · [[the-memoricide]] · [[urbicide-of-palestine]]
 
+### [[manufactured-consent-iran-moc|Manufactured Consent — Iran Casualty Narrative]]
+Information-warfare dimension of the 2025–2026 Iran protests and the US–Iran war: how an unverified ~36,500 casualty figure outran HRANA's name-by-name ~7,000 under an internet blackout, and the forensically-documented Israeli AI influence operation ([[2025-10-02-citizenlab-prisonbreak-report|Citizen Lab "PRISONBREAK"]]) promoting Reza Pahlavi. Context for [[CLAIM-001-us-iran-war|CLAIM-001]] and [[CLAIM-008-trump-technate|CLAIM-008]].
+
+> Key atomic notes: [[israeli-influence-operation-iran]] · [[reza-pahlavi-position-shift]] · [[casualty-inflation-narrative]] · [[hrana-methodology]] · [[iran-internet-blackout]] · [[manufacturing-consent-mechanism]]
+
 ---
 
 ## Claims (22 tracked predictions)

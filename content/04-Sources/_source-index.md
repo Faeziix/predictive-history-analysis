@@ -73,3 +73,13 @@ All news sources collected and assessed.
 | [[2026-06-18-epstein-files-mossad-contested]] | Times of Israel/Al Jazeera/The Week | Medium | [[CLAIM-013-epstein-intel-networks]] |
 | [[2026-06-18-f35-readiness-cost-overrun]] | Responsible Statecraft/GAO/Defense News | High | [[CLAIM-014-mic-siphon]] |
 | [[2026-06-18-trump-china-visit-stablecoin]] | WaPo/CNN/CSIS/CFR | High | [[CLAIM-017-us-china-grand-bargain-stablecoin]], [[CLAIM-018-putin-strategy-destroy-usd]] |
+
+## Manufactured-Consent / Iran Influence-Op Cluster
+
+| Source | Publisher | Credibility | Related Claims |
+|--------|-----------|-------------|----------------|
+| [[2026-01-27-iran-protest-death-toll-npr-ap]] | NPR / AP | High | [[CLAIM-001-us-iran-war]] |
+| [[2025-10-03-israeli-influence-operation-haaretz]] | Haaretz / TheMarker + Citizen Lab | High | [[CLAIM-008-trump-technate]] |
+| [[2025-10-02-citizenlab-prisonbreak-report]] | Citizen Lab (U. Toronto) — Report No. 189 | High | [[CLAIM-008-trump-technate]] |
+| [[2026-01-25-iran-deadliest-massacre-iran-international]] | Iran International | Medium (self-sourced) | [[CLAIM-001-us-iran-war]] |
+| [[2025-mee-pahlavi-pro-israel-stooge]] | Middle East Eye (opinion) | Medium | [[CLAIM-008-trump-technate]] |
